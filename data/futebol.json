@@ -1,0 +1,5050 @@
+[
+  {
+    "instruction": "Evaluate the following phrase by transforming it into the spelling given.",
+    "input": "freind --> friend",
+    "output": "The spelling of the given phrase \"freind\" is incorrect, the correct spelling is \"friend\"."
+  },
+  {
+    "instruction": "Edit the following sentence for grammar.",
+    "input": "He go to the park every day.",
+    "output": "The correct sentence is: \"He goes to the park every day.\""
+  },
+  {
+    "instruction": "Identify the capital city of the country provided.",
+    "input": "France",
+    "output": "The capital city of France is Paris."
+  },
+  {
+    "instruction": "Explain the scientific concept mentioned.",
+    "input": "Photosynthesis",
+    "output": "Photosynthesis is the process used by plants and other organisms to convert light energy into chemical energy that, through cellular respiration, can later be released to fuel the organism's activities."
+  },
+  {
+    "instruction": "Provide a brief summary of the historical event.",
+    "input": "The Moon Landing",
+    "output": "On July 20, 1969, NASA's Apollo 11 mission successfully landed the first two humans, Neil Armstrong and Buzz Aldrin, on the Moon."
+  },
+  {
+    "instruction": "Translate the following word into Spanish.",
+    "input": "Apple",
+    "output": "The Spanish translation for \"Apple\" is \"Manzana\"."
+  },
+  {
+    "instruction": "State the chemical symbol for the following element.",
+    "input": "Gold",
+    "output": "The chemical symbol for Gold is Au."
+  },
+  {
+    "instruction": "Who wrote the play 'Romeo and Juliet'?",
+    "input": "",
+    "output": "The play 'Romeo and Juliet' was written by William Shakespeare."
+  },
+  {
+    "instruction": "What is the square root of 144?",
+    "input": "",
+    "output": "The square root of 144 is 12."
+  },
+  {
+    "instruction": "Name the largest ocean on Earth.",
+    "input": "",
+    "output": "The largest ocean on Earth is the Pacific Ocean."
+  },
+  {
+    "instruction": "Identify the primary gas found in Earth's atmosphere.",
+    "input": "",
+    "output": "The primary gas found in Earth's atmosphere is Nitrogen, making up about 78% of the air."
+  },
+  {
+    "instruction": "Correct the following sentence for subject-verb agreement.",
+    "input": "They was going to the store.",
+    "output": "The correct sentence is: \"They were going to the store.\""
+  },
+  {
+    "instruction": "Who painted the Mona Lisa?",
+    "input": "",
+    "output": "The Mona Lisa was painted by the Italian Renaissance artist Leonardo da Vinci."
+  },
+  {
+    "instruction": "Provide the atomic number for Carbon.",
+    "input": "",
+    "output": "The atomic number for Carbon is 6."
+  },
+  {
+    "instruction": "Summarize the main goal of the United Nations.",
+    "input": "",
+    "output": "The main goal of the United Nations is to maintain international peace and security, develop friendly relations among nations, and promote social progress."
+  },
+  {
+    "instruction": "What is the capital of Japan?",
+    "input": "",
+    "output": "The capital city of Japan is Tokyo."
+  },
+  {
+    "instruction": "Determine the synonym of the word provided.",
+    "input": "Enormous",
+    "output": "A synonym for \"Enormous\" is \"Huge\" or \"Gigantic\"."
+  },
+  {
+    "instruction": "Which planet is known as the Red Planet?",
+    "input": "",
+    "output": "Mars is known as the Red Planet due to the iron oxide on its surface."
+  },
+  {
+    "instruction": "Convert the following temperature from Celsius to Fahrenheit.",
+    "input": "0°C",
+    "output": "0°C is equal to 32°F."
+  },
+  {
+    "instruction": "Who is the author of '1984'?",
+    "input": "",
+    "output": "The author of the novel '1984' is George Orwell."
+  },
+  {
+    "instruction": "Explain the concept of 'Inertia'.",
+    "input": "",
+    "output": "Inertia is the tendency of an object to resist changes in its state of motion; an object at rest stays at rest unless acted upon by an external force."
+  },
+  {
+    "instruction": "What is the largest mammal in the world?",
+    "input": "",
+    "output": "The Blue Whale is the largest mammal in the world."
+  },
+  {
+    "instruction": "Identify the continent where the Sahara Desert is located.",
+    "input": "",
+    "output": "The Sahara Desert is located on the continent of Africa."
+  },
+  {
+    "instruction": "Change the following sentence from active voice to passive voice.",
+    "input": "The chef prepared the meal.",
+    "output": "The meal was prepared by the chef."
+  },
+  {
+    "instruction": "What is the hardest natural substance on Earth?",
+    "input": "",
+    "output": "Diamond is the hardest natural substance on Earth."
+  },
+  {
+    "instruction": "Define 'Inflation' in economic terms.",
+    "input": "",
+    "output": "Inflation is the rate at which the general level of prices for goods and services is rising, and, subsequently, purchasing power is falling."
+  },
+  {
+    "instruction": "Who discovered Penicillin?",
+    "input": "",
+    "output": "Penicillin was discovered by Alexander Fleming in 1928."
+  },
+  {
+    "instruction": "Name the three branches of the United States government.",
+    "input": "",
+    "output": "The three branches are the Legislative, Executive, and Judicial branches."
+  },
+  {
+    "instruction": "Calculate the area of a rectangle with the given dimensions.",
+    "input": "Length: 5cm, Width: 10cm",
+    "output": "The area of the rectangle is 50 square centimeters."
+  },
+  {
+    "instruction": "What is the currency used in the United Kingdom?",
+    "input": "",
+    "output": "The currency used in the United Kingdom is the Pound Sterling (£)."
+  },
+  {
+    "instruction": "Identify the author of 'The Great Gatsby'.",
+    "input": "",
+    "output": "The Great Gatsby was written by F. Scott Fitzgerald."
+  },
+  {
+    "instruction": "Which element has the symbol 'O'?",
+    "input": "",
+    "output": "The chemical element with the symbol 'O' is Oxygen."
+  },
+  {
+    "instruction": "Give a brief description of the 'Cold War'.",
+    "input": "",
+    "output": "The Cold War was a period of geopolitical tension between the United States and the Soviet Union and their respective allies following World War II."
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest is the tallest mountain in the world, standing at 8,848.86 meters above sea level.",
+    "input": ""
+  },
+  {
+    "instruction": "Translate 'Thank you' into French.",
+    "input": "",
+    "output": "'Thank you' in French is 'Merci'."
+  },
+  {
+    "instruction": "Determine the result of the following math expression.",
+    "input": "15 * 4",
+    "output": "The result of 15 multiplied by 4 is 60."
+  },
+  {
+    "instruction": "What year did World War I end?",
+    "input": "",
+    "output": "World War I ended on November 11, 1918."
+  },
+  {
+    "instruction": "Name the artist who cut off his own ear.",
+    "input": "",
+    "output": "The artist who famously cut off his own ear was Vincent van Gogh."
+  },
+  {
+    "instruction": "Which organ in the human body is responsible for pumping blood?",
+    "input": "",
+    "output": "The heart is the organ responsible for pumping blood throughout the body."
+  },
+  {
+    "instruction": "Define the word 'Metaphor'.",
+    "input": "",
+    "output": "A metaphor is a figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable, suggesting a resemblance."
+  },
+  {
+    "instruction": "Who was the first President of the United States?",
+    "input": "",
+    "output": "George Washington was the first President of the United States."
+  },
+  {
+    "instruction": "In which city can you find the Eiffel Tower?",
+    "input": "",
+    "output": "The Eiffel Tower is located in Paris, France."
+  },
+  {
+    "instruction": "What is the boiling point of water at sea level?",
+    "input": "",
+    "output": "The boiling point of water at sea level is 100°C or 212°F."
+  },
+  {
+    "instruction": "Identify the primary colors in the RYB model.",
+    "input": "",
+    "output": "The primary colors are Red, Yellow, and Blue."
+  },
+  {
+    "instruction": "What is the smallest country in the world?",
+    "input": "",
+    "output": "Vatican City is the smallest country in the world by both area and population."
+  },
+  {
+    "instruction": "Explain the significance of the Magna Carta.",
+    "input": "",
+    "output": "The Magna Carta, signed in 1215, established the principle that everyone, including the king, is subject to the law."
+  },
+  {
+    "instruction": "Who developed the theory of relativity?",
+    "input": "",
+    "output": "The theory of relativity was developed by Albert Einstein."
+  },
+  {
+    "instruction": "Rewrite the following phrase using a contraction.",
+    "input": "Do not enter.",
+    "output": "Don't enter."
+  },
+  {
+    "instruction": "What is the chemical formula for water?",
+    "input": "",
+    "output": "The chemical formula for water is H2O."
+  },
+  {
+    "instruction": "Name the largest desert in Asia.",
+    "input": "",
+    "output": "The Gobi Desert is the largest desert in Asia."
+  },
+  {
+    "instruction": "What is the main language spoken in Brazil?",
+    "input": "",
+    "output": "The main language spoken in Brazil is Portuguese."
+  },
+  {
+    "instruction": "Identify the inventor of the light bulb.",
+    "input": "",
+    "output": "Thomas Edison is credited with inventing the first commercially practical incandescent light bulb."
+  },
+  {
+    "instruction": "What is the speed of light in a vacuum?",
+    "input": "",
+    "output": "The speed of light in a vacuum is approximately 299,792,458 meters per second."
+  },
+  {
+    "instruction": "Name the four cardinal directions.",
+    "input": "",
+    "output": "The four cardinal directions are North, South, East, and West."
+  },
+  {
+    "instruction": "Who wrote 'The Odyssey'?",
+    "input": "",
+    "output": "The Odyssey is attributed to the ancient Greek poet Homer."
+  },
+  {
+    "instruction": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+    "input": "",
+    "output": "Plants absorb Carbon Dioxide (CO2) during photosynthesis."
+  },
+  {
+    "instruction": "What is the capital of Italy?",
+    "input": "",
+    "output": "The capital of Italy is Rome."
+  },
+  {
+    "instruction": "Evaluate the correctness of the following date.",
+    "input": "February 30th",
+    "output": "The date \"February 30th\" is incorrect because February has at most 29 days in a leap year."
+  },
+  {
+    "instruction": "Who was known as the 'Maid of Orleans'?",
+    "input": "",
+    "output": "Joan of Arc was known as the 'Maid of Orleans'."
+  },
+  {
+    "instruction": "What is the long-term weather pattern in a region called?",
+    "input": "",
+    "output": "The long-term weather pattern of a region is called its climate."
+  },
+  {
+    "instruction": "Identify the largest planet in our solar system.",
+    "input": "",
+    "output": "Jupiter is the largest planet in our solar system."
+  },
+  {
+    "instruction": "What is the chemical symbol for Silver?",
+    "input": "",
+    "output": "The chemical symbol for Silver is Ag."
+  },
+  {
+    "instruction": "How many states are there in the United States?",
+    "input": "",
+    "output": "There are 50 states in the United States."
+  },
+  {
+    "instruction": "Define 'Democracy'.",
+    "input": "",
+    "output": "Democracy is a system of government by the whole population or all the eligible members of a state, typically through elected representatives."
+  },
+  {
+    "instruction": "Who is the protagonist of 'The Catcher in the Rye'?",
+    "input": "",
+    "output": "The protagonist of 'The Catcher in the Rye' is Holden Caulfield."
+  },
+  {
+    "instruction": "What is the distance around a circle called?",
+    "input": "",
+    "output": "The distance around a circle is called the circumference."
+  },
+  {
+    "instruction": "Identify the year the Titanic sank.",
+    "input": "",
+    "output": "The Titanic sank on April 15, 1912."
+  },
+  {
+    "instruction": "What is the most spoken native language in the world?",
+    "input": "",
+    "output": "Mandarin Chinese is the most spoken native language in the world."
+  },
+  {
+    "instruction": "Name the process by which water changes into vapor.",
+    "input": "",
+    "output": "The process is called evaporation."
+  },
+  {
+    "instruction": "Who founded Microsoft?",
+    "input": "",
+    "output": "Microsoft was founded by Bill Gates and Paul Allen."
+  },
+  {
+    "instruction": "Which country is home to the Kangaroo?",
+    "input": "",
+    "output": "Australia is the country home to the Kangaroo."
+  },
+  {
+    "instruction": "What is the function of a 'Noun'?",
+    "input": "",
+    "output": "A noun is a word that functions as the name of a specific object or set of objects, such as living creatures, places, actions, qualities, or states of existence."
+  },
+  {
+    "instruction": "Who was the first woman to win a Nobel Prize?",
+    "input": "",
+    "output": "Marie Curie was the first woman to win a Nobel Prize."
+  },
+  {
+    "instruction": "What is the capital of Canada?",
+    "input": "",
+    "output": "The capital of Canada is Ottawa."
+  },
+  {
+    "instruction": "How many colors are in a rainbow?",
+    "input": "",
+    "output": "There are seven colors in a rainbow: Red, Orange, Yellow, Green, Blue, Indigo, and Violet."
+  },
+  {
+    "instruction": "Identify the author of 'Pride and Prejudice'.",
+    "input": "",
+    "output": "Pride and Prejudice was written by Jane Austen."
+  },
+  {
+    "instruction": "What is the largest organ of the human body?",
+    "input": "",
+    "output": "The skin is the largest organ of the human body."
+  },
+  {
+    "instruction": "Which year did the Berlin Wall fall?",
+    "input": "",
+    "output": "The Berlin Wall fell in 1989."
+  },
+  {
+    "instruction": "Name the planet closest to the Sun.",
+    "input": "",
+    "output": "Mercury is the planet closest to the Sun."
+  },
+  {
+    "instruction": "What is the Roman numeral for 100?",
+    "input": "",
+    "output": "The Roman numeral for 100 is C."
+  },
+  {
+    "instruction": "Identify the inventor of the telephone.",
+    "input": "",
+    "output": "Alexander Graham Bell is credited with inventing the telephone."
+  },
+  {
+    "instruction": "What is the main ingredient in hummus?",
+    "input": "",
+    "output": "The main ingredient in hummus is chickpeas."
+  },
+  {
+    "instruction": "Which country hosted the first Olympic Games in 1896?",
+    "input": "",
+    "output": "Greece hosted the first modern Olympic Games in 1896."
+  },
+  {
+    "instruction": "Define 'Ecosystem'.",
+    "input": "",
+    "output": "An ecosystem is a biological community of interacting organisms and their physical environment."
+  },
+  {
+    "instruction": "Who is the Greek god of the sea?",
+    "input": "",
+    "output": "Poseidon is the Greek god of the sea."
+  },
+  {
+    "instruction": "Name the largest state in the US by land area.",
+    "input": "",
+    "output": "Alaska is the largest state in the US by land area."
+  },
+  {
+    "instruction": "What is the primary source of energy for Earth?",
+    "input": "",
+    "output": "The Sun is the primary source of energy for Earth."
+  },
+  {
+    "instruction": "Identify the first person to walk on the moon.",
+    "input": "",
+    "output": "Neil Armstrong was the first person to walk on the moon."
+  },
+  {
+    "instruction": "What is the capital of Australia?",
+    "input": "",
+    "output": "The capital of Australia is Canberra."
+  },
+  {
+    "instruction": "Translate 'Book' into German.",
+    "input": "",
+    "output": "The German word for 'Book' is 'Buch'."
+  },
+  {
+    "instruction": "Who wrote 'Hamlet'?",
+    "input": "",
+    "output": "William Shakespeare wrote 'Hamlet'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Iron?",
+    "input": "",
+    "output": "The chemical symbol for Iron is Fe."
+  },
+  {
+    "instruction": "Identify the smallest bone in the human body.",
+    "input": "",
+    "output": "The stapes, located in the middle ear, is the smallest bone in the human body."
+  },
+  {
+    "instruction": "Which ocean lies between the Americas and Europe/Africa?",
+    "input": "",
+    "output": "The Atlantic Ocean lies between these continents."
+  },
+  {
+    "instruction": "What is the square of 9?",
+    "input": "",
+    "output": "The square of 9 is 81."
+  },
+  {
+    "instruction": "Identify the country with the largest population as of 2021.",
+    "input": "",
+    "output": "China was the country with the largest population as of 2021."
+  },
+  {
+    "instruction": "Name the instrument used to measure atmospheric pressure.",
+    "input": "",
+    "output": "A barometer is used to measure atmospheric pressure."
+  },
+  {
+    "instruction": "What is the title of the national anthem of the United States?",
+    "input": "",
+    "output": "The national anthem is 'The Star-Spangled Banner'."
+  },
+  {
+    "instruction": "Who is known as the 'Father of Geometry'?",
+    "input": "",
+    "output": "Euclid is known as the 'Father of Geometry'."
+  },
+  {
+    "instruction": "Define 'Photosynthesis'.",
+    "input": "",
+    "output": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water."
+  },
+  {
+    "instruction": "What is the capital of Russia?",
+    "input": "",
+    "output": "The capital of Russia is Moscow."
+  },
+  {
+    "instruction": "Identify the composer of the 'Fifth Symphony'.",
+    "input": "",
+    "output": "Ludwig van Beethoven is the composer of the Fifth Symphony."
+  },
+  {
+    "instruction": "What is the study of fossils called?",
+    "input": "",
+    "output": "The study of fossils is called Paleontology."
+  },
+  {
+    "instruction": "Name the three states of matter.",
+    "input": "",
+    "output": "The three primary states of matter are solid, liquid, and gas."
+  },
+  {
+    "instruction": "Who wrote 'The Hobbit'?",
+    "input": "",
+    "output": "J.R.R. Tolkien wrote 'The Hobbit'."
+  },
+  {
+    "instruction": "Which bird is a universal symbol of peace?",
+    "input": "",
+    "output": "The Dove is a universal symbol of peace."
+  },
+  {
+    "instruction": "What is the capital of Egypt?",
+    "input": "",
+    "output": "The capital of Egypt is Cairo."
+  },
+  {
+    "instruction": "Identify the number of continents on Earth.",
+    "input": "",
+    "output": "There are seven continents on Earth."
+  },
+  {
+    "instruction": "What is the chemical symbol for Sodium?",
+    "input": "",
+    "output": "The chemical symbol for Sodium is Na."
+  },
+  {
+    "instruction": "Who was the primary author of the Declaration of Independence?",
+    "input": "",
+    "output": "Thomas Jefferson was the primary author of the Declaration of Independence."
+  },
+  {
+    "instruction": "Identify the gas that is most commonly used in neon signs.",
+    "input": "",
+    "output": "The gas most commonly used in neon signs is Neon."
+  },
+  {
+    "instruction": "What is the capital city of South Korea?",
+    "input": "",
+    "output": "The capital city of South Korea is Seoul."
+  },
+  {
+    "instruction": "Convert the following number from binary to decimal.",
+    "input": "1010",
+    "output": "The binary number 1010 is equal to 10 in decimal."
+  },
+  {
+    "instruction": "Who wrote the novel 'Moby-Dick'?",
+    "input": "",
+    "output": "The novel 'Moby-Dick' was written by Herman Melville."
+  },
+  {
+    "instruction": "Define the mathematical term 'Prime Number'.",
+    "input": "",
+    "output": "A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself."
+  },
+  {
+    "instruction": "Which country is the largest in the world by land area?",
+    "input": "",
+    "output": "Russia is the largest country in the world by land area."
+  },
+  {
+    "instruction": "Identify the bone located in the human thigh.",
+    "input": "",
+    "output": "The femur is the bone located in the human thigh and is the strongest bone in the body."
+  },
+  {
+    "instruction": "Translate 'Good morning' into Italian.",
+    "input": "",
+    "output": "'Good morning' in Italian is 'Buongiorno'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Potassium?",
+    "input": "",
+    "output": "The chemical symbol for Potassium is K."
+  },
+  {
+    "instruction": "Who was the first person to fly solo across the Atlantic Ocean?",
+    "input": "",
+    "output": "Charles Lindbergh was the first person to fly solo across the Atlantic Ocean in 1927."
+  },
+  {
+    "instruction": "State the law of conservation of energy.",
+    "input": "",
+    "output": "The law of conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another."
+  },
+  {
+    "instruction": "What is the main ingredient in the Japanese dish 'Miso Soup'?",
+    "input": "",
+    "output": "The main ingredient in miso soup is miso paste, which is produced by fermenting soybeans."
+  },
+  {
+    "instruction": "Which planet in our solar system has the most prominent ring system?",
+    "input": "",
+    "output": "Saturn has the most prominent and complex ring system."
+  },
+  {
+    "instruction": "Correct the spelling of the word in the input.",
+    "input": "Occurred --> Occured",
+    "output": "The spelling \"Occured\" is incorrect; the correct spelling is \"Occurred\" with two 'r's."
+  },
+  {
+    "instruction": "What is the capital of Thailand?",
+    "input": "",
+    "output": "The capital of Thailand is Bangkok."
+  },
+  {
+    "instruction": "Identify the author of 'The Picture of Dorian Gray'.",
+    "input": "",
+    "output": "Oscar Wilde is the author of 'The Picture of Dorian Gray'."
+  },
+  {
+    "instruction": "What is the process of a liquid turning into a solid called?",
+    "input": "",
+    "output": "The process is called freezing or solidification."
+  },
+  {
+    "instruction": "Who developed the first successful polio vaccine?",
+    "input": "",
+    "output": "Jonas Salk developed the first successful polio vaccine in the early 1950s."
+  },
+  {
+    "instruction": "Identify the largest internal organ in the human body.",
+    "input": "",
+    "output": "The liver is the largest internal organ in the human body."
+  },
+  {
+    "instruction": "Which empire was ruled by Julius Caesar?",
+    "input": "",
+    "output": "Julius Caesar was a leader of the Roman Republic, which paved the way for the Roman Empire."
+  },
+  {
+    "instruction": "What is the standard unit of force in the International System of Units (SI)?",
+    "input": "",
+    "output": "The standard unit of force is the Newton (N)."
+  },
+  {
+    "instruction": "Name the city that is known as the 'Big Apple'.",
+    "input": "",
+    "output": "New York City is commonly referred to as the 'Big Apple'."
+  },
+  {
+    "instruction": "Identify the primary source of vitamin D for humans.",
+    "input": "",
+    "output": "The primary source of vitamin D is sunlight, as the skin produces it when exposed to UV rays."
+  },
+  {
+    "instruction": "Who is credited with discovering the laws of motion?",
+    "input": "",
+    "output": "Sir Isaac Newton is credited with discovering the laws of motion."
+  },
+  {
+    "instruction": "What is the official language of Brazil?",
+    "input": "",
+    "output": "The official language of Brazil is Portuguese."
+  },
+  {
+    "instruction": "Identify the part of the plant that conducts photosynthesis.",
+    "input": "",
+    "output": "The leaves are the primary part of the plant where photosynthesis occurs."
+  },
+  {
+    "instruction": "Which country is famous for its fjords?",
+    "input": "",
+    "output": "Norway is the country most famous for its extensive and beautiful fjords."
+  },
+  {
+    "instruction": "Name the architect who designed the Guggenheim Museum in Bilbao.",
+    "input": "",
+    "output": "The Guggenheim Museum in Bilbao was designed by Frank Gehry."
+  },
+  {
+    "instruction": "What is the term for a word that is spelled the same backwards as forwards?",
+    "input": "",
+    "output": "A word that is spelled the same backwards as forwards is called a palindrome."
+  },
+  {
+    "instruction": "Identify the mountain range that separates Europe and Asia.",
+    "input": "",
+    "output": "The Ural Mountains are considered the boundary between Europe and Asia."
+  },
+  {
+    "instruction": "Who wrote 'The Communist Manifesto'?",
+    "input": "Karl Marx and Friedrich Engels",
+    "output": "The Communist Manifesto was written by Karl Marx and Friedrich Engels in 1848."
+  },
+  {
+    "instruction": "What is the name of the ship that brought the Pilgrims to America in 1620?",
+    "input": "",
+    "output": "The name of the ship was the Mayflower."
+  },
+  {
+    "instruction": "Which element is the most abundant in the Earth's crust?",
+    "input": "",
+    "output": "Oxygen is the most abundant element in the Earth's crust."
+  },
+  {
+    "instruction": "Define 'Absolute Zero'.",
+    "input": "",
+    "output": "Absolute zero is the lowest possible temperature, at which the motion of particles that constitute matter would be minimal. It is 0 Kelvin or -273.15°C."
+  },
+  {
+    "instruction": "Who painted 'The Starry Night'?",
+    "input": "",
+    "output": "Vincent van Gogh painted 'The Starry Night' in 1889."
+  },
+  {
+    "instruction": "What is the capital of Sweden?",
+    "input": "",
+    "output": "The capital of Sweden is Stockholm."
+  },
+  {
+    "instruction": "Identify the historical period that followed the Middle Ages.",
+    "input": "",
+    "output": "The Renaissance followed the Middle Ages."
+  },
+  {
+    "instruction": "What is the value of Pi rounded to two decimal places?",
+    "input": "",
+    "output": "The value of Pi rounded to two decimal places is 3.14."
+  },
+  {
+    "instruction": "Who is the Norse god of thunder?",
+    "input": "",
+    "output": "Thor is the Norse god of thunder."
+  },
+  {
+    "instruction": "Identify the smallest planet in our solar system.",
+    "input": "",
+    "output": "Mercury is the smallest planet in our solar system."
+  },
+  {
+    "instruction": "What is the main function of red blood cells?",
+    "input": "",
+    "output": "The main function of red blood cells is to carry oxygen from the lungs to the rest of the body."
+  },
+  {
+    "instruction": "Name the canal that connects the Atlantic and Pacific Oceans.",
+    "input": "",
+    "output": "The Panama Canal connects the Atlantic and Pacific Oceans."
+  },
+  {
+    "instruction": "Identify the writer of 'Harry Potter'.",
+    "input": "",
+    "output": "J.K. Rowling is the author of the 'Harry Potter' series."
+  },
+  {
+    "instruction": "What is the chemical symbol for Helium?",
+    "input": "",
+    "output": "The chemical symbol for Helium is He."
+  },
+  {
+    "instruction": "Who was the 'Lady with the Lamp'?",
+    "input": "",
+    "output": "Florence Nightingale was known as the 'Lady with the Lamp' for her work in nursing during the Crimean War."
+  },
+  {
+    "instruction": "What is the capital of Portugal?",
+    "input": "",
+    "output": "The capital of Portugal is Lisbon."
+  },
+  {
+    "instruction": "Identify the largest bird in the world.",
+    "input": "",
+    "output": "The Ostrich is the largest bird in the world."
+  },
+  {
+    "instruction": "What is the primary ingredient of glass?",
+    "input": "",
+    "output": "The primary ingredient of glass is silica, usually in the form of sand."
+  },
+  {
+    "instruction": "In which country is the Taj Mahal located?",
+    "input": "",
+    "output": "The Taj Mahal is located in Agra, India."
+  },
+  {
+    "instruction": "Who discovered gravity when an apple fell on his head?",
+    "input": "",
+    "output": "Sir Isaac Newton is famously associated with the discovery of gravity through the story of the falling apple."
+  },
+  {
+    "instruction": "What is the capital of Argentina?",
+    "input": "",
+    "output": "The capital of Argentina is Buenos Aires."
+  },
+  {
+    "instruction": "Identify the currency of Japan.",
+    "input": "",
+    "output": "The currency of Japan is the Yen (¥)."
+  },
+  {
+    "instruction": "What is the chemical formula for Methane?",
+    "input": "",
+    "output": "The chemical formula for Methane is CH4."
+  },
+  {
+    "instruction": "Who was the first woman to fly solo across the Atlantic?",
+    "input": "",
+    "output": "Amelia Earhart was the first woman to fly solo across the Atlantic Ocean."
+  },
+  {
+    "instruction": "Name the ocean that is on the East Coast of the United States.",
+    "input": "",
+    "output": "The Atlantic Ocean is on the East Coast of the United States."
+  },
+  {
+    "instruction": "Identify the inventor of the printing press.",
+    "input": "",
+    "output": "Johannes Gutenberg invented the printing press around 1440."
+  },
+  {
+    "instruction": "What is the capital of Germany?",
+    "input": "",
+    "output": "The capital of Germany is Berlin."
+  },
+  {
+    "instruction": "Which vitamin is produced when the human body is exposed to sunlight?",
+    "input": "",
+    "output": "Vitamin D is produced by the body when exposed to sunlight."
+  },
+  {
+    "instruction": "Who wrote 'A Brief History of Time'?",
+    "input": "",
+    "output": "Stephen Hawking wrote 'A Brief History of Time'."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Lead.",
+    "input": "",
+    "output": "The chemical symbol for Lead is Pb."
+  },
+  {
+    "instruction": "What is the capital of China?",
+    "input": "",
+    "output": "The capital of China is Beijing."
+  },
+  {
+    "instruction": "Identify the planet that is known for its beautiful rings.",
+    "input": "",
+    "output": "Saturn is the planet known for its prominent rings."
+  },
+  {
+    "instruction": "Who was the first person to sail around the world?",
+    "input": "",
+    "output": "The expedition led by Ferdinand Magellan was the first to sail around the world, although Magellan himself died before the journey was completed."
+  },
+  {
+    "instruction": "What is the study of weather called?",
+    "input": "",
+    "output": "The study of weather is called Meteorology."
+  },
+  {
+    "instruction": "Which language has the most words?",
+    "input": "",
+    "output": "English is widely considered to have the largest vocabulary of any language."
+  },
+  {
+    "instruction": "Identify the author of 'War and Peace'.",
+    "input": "",
+    "output": "Leo Tolstoy is the author of 'War and Peace'."
+  },
+  {
+    "instruction": "What is the capital of Spain?",
+    "input": "",
+    "output": "The capital of Spain is Madrid."
+  },
+  {
+    "instruction": "Name the first human-made satellite to orbit the Earth.",
+    "input": "",
+    "output": "Sputnik 1 was the first human-made satellite, launched by the Soviet Union in 1957."
+  },
+  {
+    "instruction": "Identify the largest land animal.",
+    "input": "",
+    "output": "The African Elephant is the largest land animal."
+  },
+  {
+    "instruction": "What is the boiling point of water in Fahrenheit?",
+    "input": "",
+    "output": "The boiling point of water at sea level is 212°F."
+  },
+  {
+    "instruction": "Who wrote 'The Grapes of Wrath'?",
+    "input": "",
+    "output": "John Steinbeck wrote 'The Grapes of Wrath'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Copper?",
+    "input": "",
+    "output": "The chemical symbol for Copper is Cu."
+  },
+  {
+    "instruction": "Identify the capital of Mexico.",
+    "input": "",
+    "output": "The capital of Mexico is Mexico City."
+  },
+  {
+    "instruction": "What is the process of plants losing water through their leaves called?",
+    "input": "",
+    "output": "This process is called transpiration."
+  },
+  {
+    "instruction": "Who founded the Mongol Empire?",
+    "input": "",
+    "output": "Genghis Khan founded the Mongol Empire."
+  },
+  {
+    "instruction": "Identify the city that is home to the Parthenon.",
+    "input": "",
+    "output": "The Parthenon is located in Athens, Greece."
+  },
+  {
+    "instruction": "What is the name of the largest moon of Saturn?",
+    "input": "",
+    "output": "Titan is the largest moon of Saturn."
+  },
+  {
+    "instruction": "Identify the author of 'Brave New World'.",
+    "input": "",
+    "output": "Aldous Huxley wrote 'Brave New World'."
+  },
+  {
+    "instruction": "What is the capital of Norway?",
+    "input": "",
+    "output": "The capital of Norway is Oslo."
+  },
+  {
+    "instruction": "Which element has the atomic number 1?",
+    "input": "",
+    "output": "Hydrogen has the atomic number 1."
+  },
+  {
+    "instruction": "Identify the composer of 'The Four Seasons'.",
+    "input": "",
+    "output": "Antonio Vivaldi composed 'The Four Seasons'."
+  },
+  {
+    "instruction": "What is the name of the galaxy that contains our Solar System?",
+    "input": "",
+    "output": "Our Solar System is located in the Milky Way galaxy."
+  },
+  {
+    "instruction": "Who was the leader of the Civil Rights Movement in the US who gave the 'I Have a Dream' speech?",
+    "input": "",
+    "output": "Martin Luther King Jr. gave the 'I Have a Dream' speech."
+  },
+  {
+    "instruction": "Identify the capital of Greece.",
+    "input": "",
+    "output": "The capital of Greece is Athens."
+  },
+  {
+    "instruction": "What is the hardest mineral on the Mohs scale?",
+    "input": "",
+    "output": "Diamond is the hardest mineral on the Mohs scale, with a rating of 10."
+  },
+  {
+    "instruction": "Who wrote 'The Catcher in the Rye'?",
+    "input": "",
+    "output": "J.D. Salinger wrote 'The Catcher in the Rye'."
+  },
+  {
+    "instruction": "Identify the capital of Turkey.",
+    "input": "",
+    "output": "The capital of Turkey is Ankara."
+  },
+  {
+    "instruction": "What is the chemical symbol for Mercury?",
+    "input": "",
+    "output": "The chemical symbol for Mercury is Hg."
+  },
+  {
+    "instruction": "Identify the largest island in the world.",
+    "input": "",
+    "output": "Greenland is the largest island in the world."
+  },
+  {
+    "instruction": "Who is the author of 'Alice's Adventures in Wonderland'?",
+    "input": "",
+    "output": "Lewis Carroll is the author of 'Alice's Adventures in Wonderland'."
+  },
+  {
+    "instruction": "What is the capital of India?",
+    "input": "",
+    "output": "The capital of India is New Delhi."
+  },
+  {
+    "instruction": "Identify the gas that is released by plants during photosynthesis.",
+    "input": "",
+    "output": "Oxygen is the gas released by plants during photosynthesis."
+  },
+  {
+    "instruction": "Who was the Greek goddess of wisdom?",
+    "input": "",
+    "output": "Athena was the Greek goddess of wisdom."
+  },
+  {
+    "instruction": "Identify the capital of Switzerland.",
+    "input": "",
+    "output": "The capital of Switzerland is Bern."
+  },
+  {
+    "instruction": "What is the name of the process where ice turns directly into water vapor?",
+    "input": "",
+    "output": "This process is called sublimation."
+  },
+  {
+    "instruction": "Who wrote 'The Old Man and the Sea'?",
+    "input": "",
+    "output": "Ernest Hemingway wrote 'The Old Man and the Sea'."
+  },
+  {
+    "instruction": "Identify the capital of Thailand.",
+    "input": "",
+    "output": "The capital of Thailand is Bangkok."
+  },
+  {
+    "instruction": "What is the chemical symbol for Tin?",
+    "input": "",
+    "output": "The chemical symbol for Tin is Sn."
+  },
+  {
+    "instruction": "Identify the creator of the Sherlock Holmes character.",
+    "input": "",
+    "output": "Sir Arthur Conan Doyle created Sherlock Holmes."
+  },
+  {
+    "instruction": "What is the capital of South Africa?",
+    "input": "",
+    "output": "South Africa has three capitals: Pretoria (executive), Bloemfontein (judicial), and Cape Town (legislative)."
+  },
+  {
+    "instruction": "Identify the element with the chemical symbol 'Fe'.",
+    "input": "",
+    "output": "The chemical symbol 'Fe' stands for Iron."
+  },
+  {
+    "instruction": "What is the capital of South Africa?",
+    "input": "",
+    "output": "South Africa has three capital cities: Pretoria (Executive), Bloemfontein (Judicial), and Cape Town (Legislative)."
+  },
+  {
+    "instruction": "Correct the grammar in the following sentence.",
+    "input": "She don't like apples.",
+    "output": "The correct sentence is: \"She doesn't like apples.\""
+  },
+  {
+    "instruction": "Who wrote the play 'Macbeth'?",
+    "input": "",
+    "output": "The play 'Macbeth' was written by William Shakespeare."
+  },
+  {
+    "instruction": "Define the term 'Photosynthesis'.",
+    "input": "",
+    "output": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water."
+  },
+  {
+    "instruction": "What is the largest country in South America by area?",
+    "input": "",
+    "output": "Brazil is the largest country in South America by area."
+  },
+  {
+    "instruction": "Identify the inventor of the telephone.",
+    "input": "",
+    "output": "Alexander Graham Bell is widely credited with inventing the first practical telephone."
+  },
+  {
+    "instruction": "Translate the following word into Spanish.",
+    "input": "Library",
+    "output": "The Spanish translation for \"Library\" is \"Biblioteca\"."
+  },
+  {
+    "instruction": "What is the square root of 64?",
+    "input": "",
+    "output": "The square root of 64 is 8."
+  },
+  {
+    "instruction": "Name the three states of matter.",
+    "input": "",
+    "output": "The three primary states of matter are solid, liquid, and gas."
+  },
+  {
+    "instruction": "Who was the first man to step on the moon?",
+    "input": "",
+    "output": "Neil Armstrong was the first human to step on the moon in 1969."
+  },
+  {
+    "instruction": "What is the chemical formula for table salt?",
+    "input": "",
+    "output": "The chemical formula for table salt is NaCl (Sodium Chloride)."
+  },
+  {
+    "instruction": "Identify the author of 'Oliver Twist'.",
+    "input": "",
+    "output": "Charles Dickens is the author of the novel 'Oliver Twist'."
+  },
+  {
+    "instruction": "Which planet is known for its rings?",
+    "input": "",
+    "output": "Saturn is the planet most famous for its prominent and complex ring system."
+  },
+  {
+    "instruction": "What is the currency of the European Union?",
+    "input": "",
+    "output": "The official currency of most member states of the European Union is the Euro (€)."
+  },
+  {
+    "instruction": "Explain the Pythagorean theorem.",
+    "input": "",
+    "output": "The Pythagorean theorem states that in a right-angled triangle, the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides (a² + b² = c²)."
+  },
+  {
+    "instruction": "What is the capital of Russia?",
+    "input": "",
+    "output": "The capital city of Russia is Moscow."
+  },
+  {
+    "instruction": "Identify the longest river in the world.",
+    "input": "",
+    "output": "The Nile River is traditionally considered the longest river in the world."
+  },
+  {
+    "instruction": "Who painted the Sistine Chapel ceiling?",
+    "input": "",
+    "output": "Michelangelo painted the Sistine Chapel ceiling between 1508 and 1512."
+  },
+  {
+    "instruction": "What is the atomic number of Oxygen?",
+    "input": "",
+    "output": "The atomic number of Oxygen is 8."
+  },
+  {
+    "instruction": "Convert the following length into centimeters.",
+    "input": "2 meters",
+    "output": "2 meters is equal to 200 centimeters."
+  },
+  {
+    "instruction": "Who discovered gravity?",
+    "input": "",
+    "output": "Sir Isaac Newton is credited with formulating the theory of universal gravitation."
+  },
+  {
+    "instruction": "What is the main language spoken in Mexico?",
+    "input": "",
+    "output": "The main language spoken in Mexico is Spanish."
+  },
+  {
+    "instruction": "Identify the smallest continent by land area.",
+    "input": "",
+    "output": "Australia is the smallest continent by land area."
+  },
+  {
+    "instruction": "What is the chemical symbol for Silver?",
+    "input": "",
+    "output": "The chemical symbol for Silver is Ag."
+  },
+  {
+    "instruction": "Name the first president of the United States.",
+    "input": "",
+    "output": "George Washington was the first president of the United States."
+  },
+  {
+    "instruction": "What is the capital of Germany?",
+    "input": "",
+    "output": "The capital city of Germany is Berlin."
+  },
+  {
+    "instruction": "Define the word 'Metaphor'.",
+    "input": "",
+    "output": "A metaphor is a figure of speech that describes an object or action in a way that isn't literally true, but helps explain an idea or make a comparison."
+  },
+  {
+    "instruction": "Which ocean is the largest on Earth?",
+    "input": "",
+    "output": "The Pacific Ocean is the largest and deepest ocean on Earth."
+  },
+  {
+    "instruction": "Who wrote 'The Odyssey'?",
+    "input": "",
+    "output": "The Odyssey is an ancient Greek epic poem attributed to Homer."
+  },
+  {
+    "instruction": "What is the boiling point of water in Celsius?",
+    "input": "",
+    "output": "The boiling point of water at sea level is 100 degrees Celsius."
+  },
+  {
+    "instruction": "Identify the organ that pumps blood throughout the human body.",
+    "input": "",
+    "output": "The heart is the organ responsible for pumping blood throughout the body."
+  },
+  {
+    "instruction": "What is the primary gas in the Sun?",
+    "input": "",
+    "output": "The primary gas in the Sun is Hydrogen, followed by Helium."
+  },
+  {
+    "instruction": "Who invented the light bulb?",
+    "input": "",
+    "output": "Thomas Edison is most famously credited with inventing the first commercially practical incandescent light bulb."
+  },
+  {
+    "instruction": "What is the capital of Canada?",
+    "input": "",
+    "output": "The capital city of Canada is Ottawa."
+  },
+  {
+    "instruction": "Identify the author of 'Pride and Prejudice'.",
+    "input": "",
+    "output": "Jane Austen is the author of 'Pride and Prejudice'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Gold?",
+    "input": "",
+    "output": "The chemical symbol for Gold is Au."
+  },
+  {
+    "instruction": "Name the largest desert in the world.",
+    "input": "",
+    "output": "The Antarctic Desert is the largest desert in the world, though the Sahara is the largest hot desert."
+  },
+  {
+    "instruction": "Who was the first woman to win a Nobel Prize?",
+    "input": "",
+    "output": "Marie Curie was the first woman to win a Nobel Prize, and the only person to win in two different scientific fields."
+  },
+  {
+    "instruction": "What is the capital of Italy?",
+    "input": "",
+    "output": "The capital city of Italy is Rome."
+  },
+  {
+    "instruction": "Identify the largest planet in our solar system.",
+    "input": "",
+    "output": "Jupiter is the largest planet in our solar system."
+  },
+  {
+    "instruction": "What is the freezing point of water in Fahrenheit?",
+    "input": "",
+    "output": "The freezing point of water is 32 degrees Fahrenheit."
+  },
+  {
+    "instruction": "Who wrote 'Romeo and Juliet'?",
+    "input": "",
+    "output": "William Shakespeare wrote the tragedy 'Romeo and Juliet'."
+  },
+  {
+    "instruction": "What is the most spoken language in the world by native speakers?",
+    "input": "",
+    "output": "Mandarin Chinese is the most spoken language in the world by number of native speakers."
+  },
+  {
+    "instruction": "Identify the capital of China.",
+    "input": "",
+    "output": "The capital city of China is Beijing."
+  },
+  {
+    "instruction": "What is the speed of light?",
+    "input": "",
+    "output": "The speed of light in a vacuum is approximately 299,792,458 meters per second."
+  },
+  {
+    "instruction": "Who is the author of 'The Great Gatsby'?",
+    "input": "",
+    "output": "F. Scott Fitzgerald is the author of 'The Great Gatsby'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Helium?",
+    "input": "",
+    "output": "The chemical symbol for Helium is He."
+  },
+  {
+    "instruction": "Identify the largest organ in the human body.",
+    "input": "",
+    "output": "The skin is the largest organ of the human body."
+  },
+  {
+    "instruction": "What is the capital of France?",
+    "input": "",
+    "output": "The capital city of France is Paris."
+  },
+  {
+    "instruction": "Name the scientist who developed the theory of relativity.",
+    "input": "",
+    "output": "Albert Einstein developed the theory of relativity."
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "input": "",
+    "output": "Mount Everest is the tallest mountain above sea level."
+  },
+  {
+    "instruction": "Identify the author of '1984'.",
+    "input": "",
+    "output": "George Orwell is the author of the dystopian novel '1984'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Sodium?",
+    "input": "",
+    "output": "The chemical symbol for Sodium is Na."
+  },
+  {
+    "instruction": "Name the largest mammal in the world.",
+    "input": "",
+    "output": "The Blue Whale is the largest mammal in the world."
+  },
+  {
+    "instruction": "What is the capital of Australia?",
+    "input": "",
+    "output": "The capital city of Australia is Canberra."
+  },
+  {
+    "instruction": "Who painted the 'Mona Lisa'?",
+    "input": "",
+    "output": "The 'Mona Lisa' was painted by Leonardo da Vinci."
+  },
+  {
+    "instruction": "What is the main component of Earth's atmosphere?",
+    "input": "",
+    "output": "Nitrogen is the most abundant gas in Earth's atmosphere, making up about 78%."
+  },
+  {
+    "instruction": "Identify the capital of Japan.",
+    "input": "",
+    "output": "The capital city of Japan is Tokyo."
+  },
+  {
+    "instruction": "Who is known as the 'Father of Computers'?",
+    "input": "",
+    "output": "Charles Babbage is widely regarded as the 'Father of Computers' for designing the first mechanical computer."
+  },
+  {
+    "instruction": "What is the chemical symbol for Potassium?",
+    "input": "",
+    "output": "The chemical symbol for Potassium is K."
+  },
+  {
+    "instruction": "Name the smallest country in the world.",
+    "input": "",
+    "output": "Vatican City is the smallest country in the world by both area and population."
+  },
+  {
+    "instruction": "Who wrote 'The Hobbit'?",
+    "input": "",
+    "output": "J.R.R. Tolkien is the author of 'The Hobbit'."
+  },
+  {
+    "instruction": "What is the capital of Egypt?",
+    "input": "",
+    "output": "The capital city of Egypt is Cairo."
+  },
+  {
+    "instruction": "Identify the hard white substance that makes up the tusks of elephants.",
+    "input": "",
+    "output": "The substance is called Ivory."
+  },
+  {
+    "instruction": "What is the most common gas in the atmosphere of Mars?",
+    "input": "",
+    "output": "The atmosphere of Mars is primarily composed of Carbon Dioxide."
+  },
+  {
+    "instruction": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "input": "",
+    "output": "Amelia Earhart was the first woman to fly solo across the Atlantic in 1932."
+  },
+  {
+    "instruction": "What is the capital of Portugal?",
+    "input": "",
+    "output": "The capital city of Portugal is Lisbon."
+  },
+  {
+    "instruction": "Identify the instrument used to measure atmospheric pressure.",
+    "input": "",
+    "output": "A barometer is the instrument used to measure atmospheric pressure."
+  },
+  {
+    "instruction": "Who wrote 'The Catcher in the Rye'?",
+    "input": "",
+    "output": "J.D. Salinger is the author of 'The Catcher in the Rye'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Lead?",
+    "input": "",
+    "output": "The chemical symbol for Lead is Pb."
+  },
+  {
+    "instruction": "Name the longest wall in the world.",
+    "input": "",
+    "output": "The Great Wall of China is the longest wall in the world."
+  },
+  {
+    "instruction": "What is the capital of India?",
+    "input": "",
+    "output": "The capital city of India is New Delhi."
+  },
+  {
+    "instruction": "Who discovered Penicillin?",
+    "input": "",
+    "output": "Alexander Fleming discovered Penicillin in 1928."
+  },
+  {
+    "instruction": "What is the chemical formula for water?",
+    "input": "",
+    "output": "The chemical formula for water is H2O."
+  },
+  {
+    "instruction": "Identify the largest island in the world.",
+    "input": "",
+    "output": "Greenland is the largest island in the world."
+  },
+  {
+    "instruction": "Who is the author of 'Harry Potter'?",
+    "input": "",
+    "output": "J.K. Rowling is the author of the 'Harry Potter' series."
+  },
+  {
+    "instruction": "What is the capital of Spain?",
+    "input": "",
+    "output": "The capital city of Spain is Madrid."
+  },
+  {
+    "instruction": "Identify the gas that plants absorb from the atmosphere.",
+    "input": "",
+    "output": "Plants absorb Carbon Dioxide (CO2) for photosynthesis."
+  },
+  {
+    "instruction": "What is the study of stars and planets called?",
+    "input": "",
+    "output": "The study of celestial objects is called Astronomy."
+  },
+  {
+    "instruction": "Who was the first President of South Africa after apartheid?",
+    "input": "",
+    "output": "Nelson Mandela was the first black President of South Africa, serving from 1994 to 1999."
+  },
+  {
+    "instruction": "What is the capital of Greece?",
+    "input": "",
+    "output": "The capital city of Greece is Athens."
+  },
+  {
+    "instruction": "Identify the process by which a liquid turns into a gas.",
+    "input": "",
+    "output": "The process is called evaporation."
+  },
+  {
+    "instruction": "Who wrote 'Hamlet'?",
+    "input": "",
+    "output": "William Shakespeare is the author of the tragedy 'Hamlet'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Nitrogen?",
+    "input": "",
+    "output": "The chemical symbol for Nitrogen is N."
+  },
+  {
+    "instruction": "Name the canal that connects the Atlantic and Pacific Oceans.",
+    "input": "",
+    "output": "The Panama Canal connects the Atlantic and Pacific Oceans."
+  },
+  {
+    "instruction": "What is the capital of Turkey?",
+    "input": "",
+    "output": "The capital city of Turkey is Ankara."
+  },
+  {
+    "instruction": "Identify the first satellite launched into space.",
+    "input": "",
+    "output": "Sputnik 1 was the first artificial satellite, launched by the Soviet Union in 1957."
+  },
+  {
+    "instruction": "Who wrote 'Brave New World'?",
+    "input": "",
+    "output": "Aldous Huxley is the author of 'Brave New World'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Mercury?",
+    "input": "",
+    "output": "The chemical symbol for Mercury is Hg."
+  },
+  {
+    "instruction": "Name the city that is known as the 'Eternal City'.",
+    "input": "",
+    "output": "Rome is often referred to as the 'Eternal City'."
+  },
+  {
+    "instruction": "What is the capital of Argentina?",
+    "input": "",
+    "output": "The capital city of Argentina is Buenos Aires."
+  },
+  {
+    "instruction": "Identify the type of triangle with three equal sides.",
+    "input": "",
+    "output": "A triangle with three equal sides is called an equilateral triangle."
+  },
+  {
+    "instruction": "Who wrote 'Jane Eyre'?",
+    "input": "",
+    "output": "Charlotte Brontë is the author of 'Jane Eyre'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Calcium?",
+    "input": "",
+    "output": "The chemical symbol for Calcium is Ca."
+  },
+  {
+    "instruction": "Identify the continent where the Amazon Rainforest is mostly located.",
+    "input": "",
+    "output": "The Amazon Rainforest is mostly located in South America."
+  },
+  {
+    "instruction": "What is the capital of Thailand?",
+    "input": "",
+    "output": "The capital city of Thailand is Bangkok."
+  },
+  {
+    "instruction": "Who is the author of 'Crime and Punishment'?",
+    "input": "",
+    "output": "Fyodor Dostoevsky is the author of 'Crime and Punishment'."
+  },
+  {
+    "instruction": "What is the atomic number of Carbon?",
+    "input": "",
+    "output": "The atomic number of Carbon is 6."
+  },
+  {
+    "instruction": "Name the largest ocean on Earth.",
+    "input": "",
+    "output": "The Pacific Ocean is the largest ocean on Earth."
+  },
+  {
+    "instruction": "What is the capital of Mexico?",
+    "input": "",
+    "output": "The capital city of Mexico is Mexico City."
+  },
+  {
+    "instruction": "Identify the primary source of energy for Earth.",
+    "input": "",
+    "output": "The Sun is the primary source of energy for life on Earth."
+  },
+  {
+    "instruction": "Who wrote 'The Chronicles of Narnia'?",
+    "input": "",
+    "output": "C.S. Lewis is the author of 'The Chronicles of Narnia'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Phosphorus?",
+    "input": "",
+    "output": "The chemical symbol for Phosphorus is P."
+  },
+  {
+    "instruction": "Identify the city that is home to the Eiffel Tower.",
+    "input": "",
+    "output": "The Eiffel Tower is located in Paris, France."
+  },
+  {
+    "instruction": "What is the capital of Norway?",
+    "input": "",
+    "output": "The capital city of Norway is Oslo."
+  },
+  {
+    "instruction": "Who painted 'The Last Supper'?",
+    "input": "",
+    "output": "Leonardo da Vinci painted 'The Last Supper'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Magnesium?",
+    "input": "",
+    "output": "The chemical symbol for Magnesium is Mg."
+  },
+  {
+    "instruction": "Name the ocean that lies between Europe and America.",
+    "input": "",
+    "output": "The Atlantic Ocean lies between Europe and America."
+  },
+  {
+    "instruction": "What is the capital of Switzerland?",
+    "input": "",
+    "output": "The de facto capital city of Switzerland is Bern."
+  },
+  {
+    "instruction": "Identify the author of 'Wuthering Heights'.",
+    "input": "",
+    "output": "Emily Brontë is the author of 'Wuthering Heights'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Silicon?",
+    "input": "",
+    "output": "The chemical symbol for Silicon is Si."
+  },
+  {
+    "instruction": "Name the planet closest to the Sun.",
+    "input": "",
+    "output": "Mercury is the planet closest to the Sun."
+  },
+  {
+    "instruction": "What is the capital of Sweden?",
+    "input": "",
+    "output": "The capital city of Sweden is Stockholm."
+  },
+  {
+    "instruction": "Who wrote 'Les Misérables'?",
+    "input": "",
+    "output": "Victor Hugo is the author of 'Les Misérables'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Sulfur?",
+    "input": "",
+    "output": "The chemical symbol for Sulfur is S."
+  },
+  {
+    "instruction": "Identify the part of the cell that contains genetic material.",
+    "input": "",
+    "output": "The nucleus is the part of the cell that contains genetic material (DNA)."
+  },
+  {
+    "instruction": "What is the capital of New Zealand?",
+    "input": "",
+    "output": "The capital city of New Zealand is Wellington."
+  },
+  {
+    "instruction": "Who is the author of 'The Picture of Dorian Gray'?",
+    "input": "",
+    "output": "Oscar Wilde is the author of 'The Picture of Dorian Gray'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Argon?",
+    "input": "",
+    "output": "The chemical symbol for Argon is Ar."
+  },
+  {
+    "instruction": "Name the sea that lies between Europe and Africa.",
+    "input": "",
+    "output": "The Mediterranean Sea lies between Europe and Africa."
+  },
+  {
+    "instruction": "What is the capital of Finland?",
+    "input": "",
+    "output": "The capital city of Finland is Helsinki."
+  },
+  {
+    "instruction": "Identify the composer of 'The Four Seasons'.",
+    "input": "",
+    "output": "Antonio Vivaldi is the composer of 'The Four Seasons'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Zinc?",
+    "input": "",
+    "output": "The chemical symbol for Zinc is Zn."
+  },
+  {
+    "instruction": "Name the tallest building in the world as of 2021.",
+    "input": "",
+    "output": "The Burj Khalifa in Dubai is the tallest building in the world."
+  },
+  {
+    "instruction": "What is the capital of Ireland?",
+    "input": "",
+    "output": "The capital city of Ireland is Dublin."
+  },
+  {
+    "instruction": "Who wrote 'The Old Man and the Sea'?",
+    "input": "",
+    "output": "Ernest Hemingway is the author of 'The Old Man and the Sea'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Barium?",
+    "input": "",
+    "output": "The chemical symbol for Barium is Ba."
+  },
+  {
+    "instruction": "Identify the continent where Egypt is located.",
+    "input": "",
+    "output": "Egypt is located on the continent of Africa (with a small part in Asia)."
+  },
+  {
+    "instruction": "What is the capital of Peru?",
+    "input": "",
+    "output": "The capital city of Peru is Lima."
+  },
+  {
+    "instruction": "Who discovered America in 1492?",
+    "input": "",
+    "output": "Christopher Columbus is traditionally credited with the European discovery of America in 1492."
+  },
+  {
+    "instruction": "What is the chemical symbol for Neon?",
+    "input": "",
+    "output": "The chemical symbol for Neon is Ne."
+  },
+  {
+    "instruction": "Name the river that flows through London.",
+    "input": "",
+    "output": "The River Thames flows through London."
+  },
+  {
+    "instruction": "What is the capital of Poland?",
+    "input": "",
+    "output": "The capital city of Poland is Warsaw."
+  },
+  {
+    "instruction": "Identify the creator of Sherlock Holmes.",
+    "input": "",
+    "output": "Sir Arthur Conan Doyle created the character Sherlock Holmes."
+  },
+  {
+    "instruction": "What is the chemical symbol for Platinum?",
+    "input": "",
+    "output": "The chemical symbol for Platinum is Pt."
+  },
+  {
+    "instruction": "Name the smallest planet in our solar system.",
+    "input": "",
+    "output": "Mercury is the smallest planet in our solar system."
+  },
+  {
+    "instruction": "What is the capital of the Czech Republic?",
+    "input": "",
+    "output": "The capital city of the Czech Republic is Prague."
+  },
+  {
+    "instruction": "Who is the author of 'Ulysses'?",
+    "input": "",
+    "output": "James Joyce is the author of 'Ulysses'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Uranium?",
+    "input": "",
+    "output": "The chemical symbol for Uranium is U."
+  },
+  {
+    "instruction": "Identify the layer of the Earth above the core.",
+    "input": "",
+    "output": "The layer above the core is the mantle."
+  },
+  {
+    "instruction": "What is the capital of Hungary?",
+    "input": "",
+    "output": "The capital city of Hungary is Budapest."
+  },
+  {
+    "instruction": "Who wrote 'Don Quixote'?",
+    "input": "",
+    "output": "Miguel de Cervantes is the author of 'Don Quixote'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Iodine?",
+    "input": "",
+    "output": "The chemical symbol for Iodine is I."
+  },
+  {
+    "instruction": "Name the force that keeps planets in orbit.",
+    "input": "",
+    "output": "Gravity is the force that keeps planets in orbit around the Sun."
+  },
+  {
+    "instruction": "What is the capital of Austria?",
+    "input": "",
+    "output": "The capital city of Austria is Vienna."
+  },
+  {
+    "instruction": "Identify the scientist who proposed the theory of evolution.",
+    "input": "",
+    "output": "Charles Darwin proposed the theory of evolution by natural selection."
+  },
+  {
+    "instruction": "What is the chemical symbol for Boron?",
+    "input": "",
+    "output": "The chemical symbol for Boron is B."
+  },
+  {
+    "instruction": "Name the instrument used to see distant stars.",
+    "input": "",
+    "output": "A telescope is used to see distant objects like stars."
+  },
+  {
+    "instruction": "What is the capital of Belgium?",
+    "input": "",
+    "output": "The capital city of Belgium is Brussels."
+  },
+  {
+    "instruction": "Who wrote 'Fahrenheit 451'?",
+    "input": "",
+    "output": "Ray Bradbury is the author of 'Fahrenheit 451'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Manganese?",
+    "input": "",
+    "output": "The chemical symbol for Manganese is Mn."
+  },
+  {
+    "instruction": "Identify the largest bone in the human body.",
+    "input": "",
+    "output": "The femur (thigh bone) is the largest bone in the human body."
+  },
+  {
+    "instruction": "What is the capital of Denmark?",
+    "input": "",
+    "output": "The capital city of Denmark is Copenhagen."
+  },
+  {
+    "instruction": "Who painted 'Guernica'?",
+    "input": "",
+    "output": "Pablo Picasso painted 'Guernica'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Cobalt?",
+    "input": "",
+    "output": "The chemical symbol for Cobalt is Co."
+  },
+  {
+    "instruction": "Name the desert that covers much of Northern Africa.",
+    "input": "",
+    "output": "The Sahara Desert covers much of Northern Africa."
+  },
+  {
+    "instruction": "What is the capital of Chile?",
+    "input": "",
+    "output": "The capital city of Chile is Santiago."
+  },
+  {
+    "instruction": "Identify the author of 'The Little Prince'.",
+    "input": "",
+    "output": "Antoine de Saint-Exupéry is the author of 'The Little Prince'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Nickel?",
+    "input": "Nickel",
+    "output": "The chemical symbol for Nickel is Ni."
+  },
+  {
+    "instruction": "Name the city that is the seat of the European Parliament.",
+    "input": "",
+    "output": "Strasbourg is the official seat of the European Parliament."
+  },
+  {
+    "instruction": "What is the capital of Colombia?",
+    "input": "",
+    "output": "The capital city of Colombia is Bogotá."
+  },
+  {
+    "instruction": "Who wrote 'The Stranger'?",
+    "input": "",
+    "output": "Albert Camus is the author of 'The Stranger'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Arsenic?",
+    "input": "",
+    "output": "The chemical symbol for Arsenic is As."
+  },
+  {
+    "instruction": "Identify the most abundant gas in the Earth's crust.",
+    "input": "",
+    "output": "Oxygen is the most abundant element (by mass) in the Earth's crust."
+  },
+  {
+    "instruction": "What is the capital of Romania?",
+    "input": "",
+    "output": "The capital city of Romania is Bucharest."
+  },
+  {
+    "instruction": "Who wrote 'The Divine Comedy'?",
+    "input": "",
+    "output": "Dante Alighieri wrote 'The Divine Comedy'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Bromine?",
+    "input": "",
+    "output": "The chemical symbol for Bromine is Br."
+  },
+  {
+    "instruction": "Name the moon of Jupiter that is the largest in the solar system.",
+    "input": "",
+    "output": "Ganymede is the largest moon in the solar system."
+  },
+  {
+    "instruction": "What is the capital of Ukraine?",
+    "input": "",
+    "output": "The capital city of Ukraine is Kyiv."
+  },
+  {
+    "instruction": "Identify the author of 'A Tale of Two Cities'.",
+    "input": "",
+    "output": "Charles Dickens wrote 'A Tale of Two Cities'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Krypton?",
+    "input": "",
+    "output": "The chemical symbol for Krypton is Kr."
+  },
+  {
+    "instruction": "Name the strait that separates Africa and Europe.",
+    "input": "",
+    "output": "The Strait of Gibraltar separates Africa and Europe."
+  },
+  {
+    "instruction": "What is the capital of Vietnam?",
+    "input": "",
+    "output": "The capital city of Vietnam is Hanoi."
+  },
+  {
+    "instruction": "Who is known as the 'Sun King'?",
+    "input": "",
+    "output": "Louis XIV of France was known as the 'Sun King'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Strontium?",
+    "input": "",
+    "output": "The chemical symbol for Strontium is Sr."
+  },
+  {
+    "instruction": "Identify the year the French Revolution began.",
+    "input": "",
+    "output": "The French Revolution began in 1789."
+  },
+  {
+    "instruction": "What is the capital of Iran?",
+    "input": "",
+    "output": "The capital city of Iran is Tehran."
+  },
+  {
+    "instruction": "Who wrote 'The Raven'?",
+    "input": "",
+    "output": "Edgar Allan Poe wrote the poem 'The Raven'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Xenon?",
+    "input": "",
+    "output": "The chemical symbol for Xenon is Xe."
+  },
+  {
+    "instruction": "Name the large island nation off the southeast coast of Africa.",
+    "input": "",
+    "output": "Madagascar is the large island nation off Africa's southeast coast."
+  },
+  {
+    "instruction": "What is the capital of Pakistan?",
+    "input": "",
+    "output": "The capital city of Pakistan is Islamabad."
+  },
+  {
+    "instruction": "Identify the author of 'The Alchemist'.",
+    "input": "",
+    "output": "Paulo Coelho is the author of 'The Alchemist'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Cesium?",
+    "input": "",
+    "output": "The chemical symbol for Cesium is Cs."
+  },
+  {
+    "instruction": "Name the imaginary line that divides the Earth into North and South.",
+    "input": "",
+    "output": "The Equator is the line that divides the Earth into the Northern and Southern Hemispheres."
+  },
+  {
+    "instruction": "What is the capital of South Korea?",
+    "input": "",
+    "output": "The capital city of South Korea is Seoul."
+  },
+  {
+    "instruction": "Who wrote 'Sense and Sensibility'?",
+    "input": "",
+    "output": "Jane Austen is the author of 'Sense and Sensibility'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Tungsten?",
+    "input": "",
+    "output": "The chemical symbol for Tungsten is W (from its German name, Wolfram)."
+  },
+  {
+    "instruction": "Identify the year World War II ended.",
+    "input": "",
+    "output": "World War II ended in 1945."
+  },
+  {
+    "instruction": "What is the capital of Indonesia?",
+    "input": "",
+    "output": "The capital city of Indonesia is Jakarta."
+  },
+  {
+    "instruction": "Who painted 'The Scream'?",
+    "input": "",
+    "output": "Edvard Munch painted 'The Scream'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Radon?",
+    "input": "",
+    "output": "The chemical symbol for Radon is Rn."
+  },
+  {
+    "instruction": "Name the largest lake in Africa.",
+    "input": "",
+    "output": "Lake Victoria is the largest lake in Africa."
+  },
+  {
+    "instruction": "What is the capital of Cuba?",
+    "input": "",
+    "output": "The capital city of Cuba is Havana."
+  },
+  {
+    "instruction": "Identify the author of 'The Metamorphosis'.",
+    "input": "",
+    "output": "Franz Kafka wrote 'The Metamorphosis'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Polonium?",
+    "input": "",
+    "output": "The chemical symbol for Polonium is Po."
+  },
+  {
+    "instruction": "Name the city where the United Nations is headquartered.",
+    "input": "",
+    "output": "The United Nations is headquartered in New York City."
+  },
+  {
+    "instruction": "What is the capital of Saudi Arabia?",
+    "input": "",
+    "output": "The capital city of Saudi Arabia is Riyadh."
+  },
+  {
+    "instruction": "Who wrote 'The Hunchback of Notre-Dame'?",
+    "input": "",
+    "output": "Victor Hugo wrote 'The Hunchback of Notre-Dame'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Francium?",
+    "input": "",
+    "output": "The chemical symbol for Francium is Fr."
+  },
+  {
+    "instruction": "Identify the explorer who first reached the South Pole.",
+    "input": "",
+    "output": "Roald Amundsen first reached the South Pole in 1911."
+  },
+  {
+    "instruction": "Identify the author of the novel 'Frankenstein'.",
+    "input": "",
+    "output": "The novel 'Frankenstein' was written by Mary Shelley."
+  },
+  {
+    "instruction": "What is the capital city of Kenya?",
+    "input": "",
+    "output": "The capital city of Kenya is Nairobi."
+  },
+  {
+    "instruction": "Name the three colors of the French flag.",
+    "input": "",
+    "output": "The three colors of the French flag are blue, white, and red."
+  },
+  {
+    "instruction": "Define the biological term 'Mitosis'.",
+    "input": "",
+    "output": "Mitosis is a type of cell division that results in two daughter cells each having the same number and kind of chromosomes as the parent nucleus."
+  },
+  {
+    "instruction": "Who was the primary leader of the Indian independence movement against British rule?",
+    "input": "",
+    "output": "Mahatma Gandhi was the primary leader of the Indian independence movement."
+  },
+  {
+    "instruction": "What is the largest moon of Jupiter?",
+    "input": "",
+    "output": "Ganymede is the largest moon of Jupiter and in the Solar System."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Helium.",
+    "input": "",
+    "output": "The chemical symbol for Helium is He."
+  },
+  {
+    "instruction": "In which year did the French Revolution begin?",
+    "input": "",
+    "output": "The French Revolution began in 1789."
+  },
+  {
+    "instruction": "What is the chemical formula for Ammonia?",
+    "input": "",
+    "output": "The chemical formula for Ammonia is NH3."
+  },
+  {
+    "instruction": "Who directed the movie 'Jaws' (1975)?",
+    "input": "",
+    "output": "The movie 'Jaws' was directed by Steven Spielberg."
+  },
+  {
+    "instruction": "Name the gas that plants release as a byproduct of photosynthesis.",
+    "input": "",
+    "output": "Plants release Oxygen as a byproduct of photosynthesis."
+  },
+  {
+    "instruction": "Identify the capital of Switzerland.",
+    "input": "",
+    "output": "The capital of Switzerland is Bern."
+  },
+  {
+    "instruction": "What is the currency of India?",
+    "input": "",
+    "output": "The currency of India is the Indian Rupee (INR)."
+  },
+  {
+    "instruction": "Who wrote 'The Wealth of Nations'?",
+    "input": "",
+    "output": "The Wealth of Nations was written by Adam Smith in 1776."
+  },
+  {
+    "instruction": "What is the square root of 225?",
+    "input": "",
+    "output": "The square root of 225 is 15."
+  },
+  {
+    "instruction": "Which planet is known as the 'Morning Star'?",
+    "input": "",
+    "output": "Venus is often referred to as the 'Morning Star' or 'Evening Star'."
+  },
+  {
+    "instruction": "Identify the main architect of the Taj Mahal.",
+    "input": "",
+    "output": "Ustad Ahmad Lahauri is generally considered the chief architect of the Taj Mahal."
+  },
+  {
+    "instruction": "What is the capital of Turkey?",
+    "input": "",
+    "output": "The capital of Turkey is Ankara."
+  },
+  {
+    "instruction": "Who developed the first successful incandescent light bulb?",
+    "input": "",
+    "output": "Thomas Edison developed the first commercially successful incandescent light bulb."
+  },
+  {
+    "instruction": "Identify the language mostly spoken in Austria.",
+    "input": "",
+    "output": "The primary language spoken in Austria is German."
+  },
+  {
+    "instruction": "What is the atomic number of Helium?",
+    "input": "",
+    "output": "The atomic number of Helium is 2."
+  },
+  {
+    "instruction": "Name the process by which a solid turns directly into a gas.",
+    "input": "",
+    "output": "The process is called sublimation."
+  },
+  {
+    "instruction": "Who was the first female Prime Minister of the United Kingdom?",
+    "input": "",
+    "output": "Margaret Thatcher was the first female Prime Minister of the United Kingdom."
+  },
+  {
+    "instruction": "What is the capital of Indonesia?",
+    "input": "",
+    "output": "The capital of Indonesia is Jakarta."
+  },
+  {
+    "instruction": "Identify the author of 'The Little Prince'.",
+    "input": "",
+    "output": "Antoine de Saint-Exupéry is the author of 'The Little Prince'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Tin?",
+    "input": "",
+    "output": "The chemical symbol for Tin is Sn."
+  },
+  {
+    "instruction": "Which country is the smallest in the world by population?",
+    "input": "",
+    "output": "Vatican City is the smallest country in the world by population."
+  },
+  {
+    "instruction": "Name the four inner planets of our solar system.",
+    "input": "",
+    "output": "The four inner planets are Mercury, Venus, Earth, and Mars."
+  },
+  {
+    "instruction": "Who wrote the play 'A Doll's House'?",
+    "input": "",
+    "output": "The play 'A Doll's House' was written by Henrik Ibsen."
+  },
+  {
+    "instruction": "What is the capital of Finland?",
+    "input": "",
+    "output": "The capital of Finland is Helsinki."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Lead.",
+    "input": "",
+    "output": "The chemical symbol for Lead is Pb."
+  },
+  {
+    "instruction": "Which ocean is located to the east of Africa?",
+    "input": "",
+    "output": "The Indian Ocean is located to the east of Africa."
+  },
+  {
+    "instruction": "Who is credited with the invention of the world wide web?",
+    "input": "",
+    "output": "Tim Berners-Lee is credited with the invention of the World Wide Web in 1989."
+  },
+  {
+    "instruction": "What is the capital of Vietnam?",
+    "input": "",
+    "output": "The capital of Vietnam is Hanoi."
+  },
+  {
+    "instruction": "Identify the historical event associated with the 'Boston Tea Party'.",
+    "input": "",
+    "output": "The Boston Tea Party was a political protest by the Sons of Liberty in Boston, Massachusetts, on December 16, 1773, which was a key event leading to the American Revolution."
+  },
+  {
+    "instruction": "What is the primary substance found in human hair and nails?",
+    "input": "",
+    "output": "Keratin is the primary protein that makes up human hair and nails."
+  },
+  {
+    "instruction": "Who painted 'The Scream'?",
+    "input": "",
+    "output": "The painting 'The Scream' was created by Edvard Munch."
+  },
+  {
+    "instruction": "What is the capital of Iran?",
+    "input": "",
+    "output": "The capital of Iran is Tehran."
+  },
+  {
+    "instruction": "Name the current of warm water in the Atlantic Ocean that influences the climate of Europe.",
+    "input": "",
+    "output": "The Gulf Stream is the warm ocean current that affects Europe's climate."
+  },
+  {
+    "instruction": "Identify the scientist who wrote 'Philosophiæ Naturalis Principia Mathematica'.",
+    "input": "",
+    "output": "Isaac Newton wrote the 'Principia Mathematica'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Silicon?",
+    "input": "",
+    "output": "The chemical symbol for Silicon is Si."
+  },
+  {
+    "instruction": "Who was the first emperor of China?",
+    "input": "",
+    "output": "Qin Shi Huang was the first emperor of a unified China."
+  },
+  {
+    "instruction": "What is the capital of Saudi Arabia?",
+    "input": "",
+    "output": "The capital of Saudi Arabia is Riyadh."
+  },
+  {
+    "instruction": "Name the artist who sculpted the 'David' (marble).",
+    "input": "",
+    "output": "The marble statue of 'David' was sculpted by Michelangelo."
+  },
+  {
+    "instruction": "What is the chemical formula for Ozone?",
+    "input": "",
+    "output": "The chemical formula for Ozone is O3."
+  },
+  {
+    "instruction": "Identify the largest state in the United States by population as of 2020.",
+    "input": "",
+    "output": "California is the most populous state in the US."
+  },
+  {
+    "instruction": "Who wrote 'The Diary of a Young Girl'?",
+    "input": "",
+    "output": "The diary was written by Anne Frank."
+  },
+  {
+    "instruction": "What is the capital of Sweden?",
+    "input": "",
+    "output": "The capital of Sweden is Stockholm."
+  },
+  {
+    "instruction": "Name the galaxy that is the closest neighbor to the Milky Way.",
+    "input": "",
+    "output": "The Andromeda Galaxy is the closest major galaxy to the Milky Way."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Magnesium.",
+    "input": "",
+    "output": "The chemical symbol for Magnesium is Mg."
+  },
+  {
+    "instruction": "Who discovered the circulation of blood?",
+    "input": "",
+    "output": "William Harvey was the first to describe the systemic circulation and properties of blood being pumped to the brain and body by the heart."
+  },
+  {
+    "instruction": "What is the capital of Iraq?",
+    "input": "",
+    "output": "The capital of Iraq is Baghdad."
+  },
+  {
+    "instruction": "Name the building where the US Congress meets.",
+    "input": "",
+    "output": "The US Congress meets in the United States Capitol in Washington, D.C."
+  },
+  {
+    "instruction": "Identify the author of 'Don Quixote'.",
+    "input": "",
+    "output": "Miguel de Cervantes is the author of 'Don Quixote'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Barium?",
+    "input": "",
+    "output": "The chemical symbol for Barium is Ba."
+  },
+  {
+    "instruction": "Which animal is the symbol of the World Wide Fund for Nature (WWF)?",
+    "input": "",
+    "output": "The Giant Panda is the symbol of the WWF."
+  },
+  {
+    "instruction": "Who was the leader of the Soviet Union during World War II?",
+    "input": "",
+    "output": "Joseph Stalin was the leader of the Soviet Union during World War II."
+  },
+  {
+    "instruction": "What is the capital of Norway?",
+    "input": "",
+    "output": "The capital of Norway is Oslo."
+  },
+  {
+    "instruction": "Name the document that ended the American Revolutionary War.",
+    "input": "",
+    "output": "The Treaty of Paris (1783) ended the American Revolutionary War."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Platinum.",
+    "input": "",
+    "output": "The chemical symbol for Platinum is Pt."
+  },
+  {
+    "instruction": "What is the largest coral reef system in the world?",
+    "input": "",
+    "output": "The Great Barrier Reef in Australia is the largest coral reef system."
+  },
+  {
+    "instruction": "Who wrote 'The Republic'?",
+    "input": "",
+    "output": "The Republic was written by the Greek philosopher Plato."
+  },
+  {
+    "instruction": "What is the capital of Denmark?",
+    "input": "",
+    "output": "The capital of Denmark is Copenhagen."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Zinc.",
+    "input": "",
+    "output": "The chemical symbol for Zinc is Zn."
+  },
+  {
+    "instruction": "Name the city that was the center of the Byzantine Empire.",
+    "input": "",
+    "output": "Constantinople (modern-day Istanbul) was the center of the Byzantine Empire."
+  },
+  {
+    "instruction": "Who is the protagonist of the 'Metamorphosis' by Franz Kafka?",
+    "input": "",
+    "output": "The protagonist is Gregor Samsa."
+  },
+  {
+    "instruction": "What is the capital of Belgium?",
+    "input": "",
+    "output": "The capital of Belgium is Brussels."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Arsenic.",
+    "input": "",
+    "output": "The chemical symbol for Arsenic is As."
+  },
+  {
+    "instruction": "Which explorer is credited with the first circumnavigation of the globe?",
+    "input": "",
+    "output": "Ferdinand Magellan's expedition completed the first circumnavigation, though he died before the journey ended."
+  },
+  {
+    "instruction": "Who wrote 'The Old Man and the Sea'?",
+    "input": "",
+    "output": "The novel was written by Ernest Hemingway."
+  },
+  {
+    "instruction": "What is the capital of Hungary?",
+    "input": "",
+    "output": "The capital of Hungary is Budapest."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Cobalt.",
+    "input": "",
+    "output": "The chemical symbol for Cobalt is Co."
+  },
+  {
+    "instruction": "Name the mountain range that includes Mount Everest.",
+    "input": "",
+    "output": "The Himalayas."
+  },
+  {
+    "instruction": "Who invented the mercury thermometer?",
+    "input": "",
+    "output": "Daniel Gabriel Fahrenheit invented the mercury thermometer in 1714."
+  },
+  {
+    "instruction": "What is the capital of Poland?",
+    "input": "",
+    "output": "The capital of Poland is Warsaw."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Mercury.",
+    "input": "",
+    "output": "The chemical symbol for Mercury is Hg."
+  },
+  {
+    "instruction": "Name the first human-made object to leave the solar system.",
+    "input": "",
+    "output": "Voyager 1 was the first human-made object to enter interstellar space."
+  },
+  {
+    "instruction": "Who wrote 'Les Misérables'?",
+    "input": "",
+    "output": "The novel was written by Victor Hugo."
+  },
+  {
+    "instruction": "What is the capital of Greece?",
+    "input": "",
+    "output": "The capital of Greece is Athens."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Neon.",
+    "input": "",
+    "output": "The chemical symbol for Neon is Ne."
+  },
+  {
+    "instruction": "Which treaty ended World War I?",
+    "input": "",
+    "output": "The Treaty of Versailles."
+  },
+  {
+    "instruction": "Who directed '2001: A Space Odyssey'?",
+    "input": "",
+    "output": "The movie was directed by Stanley Kubrick."
+  },
+  {
+    "instruction": "What is the capital of Austria?",
+    "input": "",
+    "output": "The capital of Austria is Vienna."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Phosphorus.",
+    "input": "",
+    "output": "The chemical symbol for Phosphorus is P."
+  },
+  {
+    "instruction": "Name the largest river in South America.",
+    "input": "",
+    "output": "The Amazon River."
+  },
+  {
+    "instruction": "Who was the first female pilot to fly solo across the Atlantic Ocean?",
+    "input": "",
+    "output": "Amelia Earhart."
+  },
+  {
+    "instruction": "What is the capital of Ireland?",
+    "input": "",
+    "output": "The capital of Ireland is Dublin."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Potassium.",
+    "input": "",
+    "output": "The chemical symbol for Potassium is K."
+  },
+  {
+    "instruction": "What is the primary ingredient in hummus?",
+    "input": "",
+    "output": "Chickpeas."
+  },
+  {
+    "instruction": "Who wrote 'The Divine Comedy'?",
+    "input": "",
+    "output": "Dante Alighieri."
+  },
+  {
+    "instruction": "What is the capital of Portugal?",
+    "input": "",
+    "output": "The capital of Portugal is Lisbon."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Nickel.",
+    "input": "",
+    "output": "The chemical symbol for Nickel is Ni."
+  },
+  {
+    "instruction": "Which country hosted the first FIFA World Cup in 1930?",
+    "input": "",
+    "output": "Uruguay."
+  },
+  {
+    "instruction": "Who wrote 'The Raven'?",
+    "input": "",
+    "output": "Edgar Allan Poe."
+  },
+  {
+    "instruction": "What is the capital of South Korea?",
+    "input": "",
+    "output": "The capital of South Korea is Seoul."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Chromium.",
+    "input": "",
+    "output": "The chemical symbol for Chromium is Cr."
+  },
+  {
+    "instruction": "What is the longest bone in the human body?",
+    "input": "",
+    "output": "The Femur."
+  },
+  {
+    "instruction": "Who discovered Penicillin?",
+    "input": "",
+    "output": "Alexander Fleming."
+  },
+  {
+    "instruction": "What is the capital of Chile?",
+    "input": "",
+    "output": "The capital of Chile is Santiago."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Iodine.",
+    "input": "",
+    "output": "The chemical symbol for Iodine is I."
+  },
+  {
+    "instruction": "What is the name of the Greek god of the underworld?",
+    "input": "",
+    "output": "Hades."
+  },
+  {
+    "instruction": "Who wrote 'Sense and Sensibility'?",
+    "input": "",
+    "output": "Jane Austen."
+  },
+  {
+    "instruction": "What is the capital of Colombia?",
+    "input": "",
+    "output": "The capital of Colombia is Bogotá."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Radon.",
+    "input": "",
+    "output": "The chemical symbol for Radon is Rn."
+  },
+  {
+    "instruction": "Name the scientist who proposed the laws of planetary motion.",
+    "input": "",
+    "output": "Johannes Kepler."
+  },
+  {
+    "instruction": "Who directed the movie 'Schindler's List'?",
+    "input": "",
+    "output": "Steven Spielberg."
+  },
+  {
+    "instruction": "What is the capital of New Zealand?",
+    "input": "",
+    "output": "The capital of New Zealand is Wellington."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Tungsten.",
+    "input": "",
+    "output": "The chemical symbol for Tungsten is W."
+  },
+  {
+    "instruction": "What is the unit of electrical resistance?",
+    "input": "",
+    "output": "The Ohm."
+  },
+  {
+    "instruction": "Who was the author of 'The Iliad'?",
+    "input": "",
+    "output": "Homer."
+  },
+  {
+    "instruction": "What is the capital of Pakistan?",
+    "input": "",
+    "output": "The capital of Pakistan is Islamabad."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Beryllium.",
+    "input": "",
+    "output": "The chemical symbol for Beryllium is Be."
+  },
+  {
+    "instruction": "Name the city where the Titanic was built.",
+    "input": "",
+    "output": "Belfast, Northern Ireland."
+  },
+  {
+    "instruction": "Who painted the 'Mona Lisa'?",
+    "input": "",
+    "output": "Leonardo da Vinci."
+  },
+  {
+    "instruction": "What is the capital of Peru?",
+    "input": "",
+    "output": "The capital of Peru is Lima."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Boron.",
+    "input": "",
+    "output": "The chemical symbol for Boron is B."
+  },
+  {
+    "instruction": "What is the main component of natural gas?",
+    "input": "",
+    "output": "Methane."
+  },
+  {
+    "instruction": "Who wrote 'A Christmas Carol'?",
+    "input": "",
+    "output": "Charles Dickens."
+  },
+  {
+    "instruction": "What is the capital of Cuba?",
+    "input": "",
+    "output": "The capital of Cuba is Havana."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Fluorine.",
+    "input": "",
+    "output": "The chemical symbol for Fluorine is F."
+  },
+  {
+    "instruction": "What is the largest organ of the human body?",
+    "input": "",
+    "output": "The Skin."
+  },
+  {
+    "instruction": "Who was the author of 'Anna Karenina'?",
+    "input": "",
+    "output": "Leo Tolstoy."
+  },
+  {
+    "instruction": "What is the capital of Israel?",
+    "input": "",
+    "output": "The capital of Israel is Jerusalem."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Manganese.",
+    "input": "",
+    "output": "The chemical symbol for Manganese is Mn."
+  },
+  {
+    "instruction": "What is the primary language of Brazil?",
+    "input": "",
+    "output": "Portuguese."
+  },
+  {
+    "instruction": "Who discovered the laws of heredity?",
+    "input": "",
+    "output": "Gregor Mendel."
+  },
+  {
+    "instruction": "What is the capital of Morocco?",
+    "input": "",
+    "output": "The capital of Morocco is Rabat."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Strontium.",
+    "input": "",
+    "output": "The chemical symbol for Strontium is Sr."
+  },
+  {
+    "instruction": "Name the artist who painted the Sistine Chapel ceiling.",
+    "input": "",
+    "output": "Michelangelo."
+  },
+  {
+    "instruction": "Who wrote 'The Great Gatsby'?",
+    "input": "",
+    "output": "F. Scott Fitzgerald."
+  },
+  {
+    "instruction": "What is the capital of the Czech Republic?",
+    "input": "",
+    "output": "The capital of the Czech Republic is Prague."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Cadmium.",
+    "input": "",
+    "output": "The chemical symbol for Cadmium is Cd."
+  },
+  {
+    "instruction": "What is the speed of sound at sea level?",
+    "input": "",
+    "output": "Approximately 343 meters per second (1,235 km/h)."
+  },
+  {
+    "instruction": "Who was the first President of the United States?",
+    "input": "",
+    "output": "George Washington."
+  },
+  {
+    "instruction": "What is the capital of the Philippines?",
+    "input": "",
+    "output": "The capital of the Philippines is Manila."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Antimony.",
+    "input": "",
+    "output": "The chemical symbol for Antimony is Sb."
+  },
+  {
+    "instruction": "What is the largest desert in Asia?",
+    "input": "",
+    "output": "The Gobi Desert."
+  },
+  {
+    "instruction": "Who directed 'The Godfather'?",
+    "input": "",
+    "output": "Francis Ford Coppola."
+  },
+  {
+    "instruction": "What is the capital of Romania?",
+    "input": "",
+    "output": "The capital of Romania is Bucharest."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Cesium.",
+    "input": "",
+    "output": "The chemical symbol for Cesium is Cs."
+  },
+  {
+    "instruction": "What is the currency of Japan?",
+    "input": "",
+    "output": "The Japanese Yen (JPY)."
+  },
+  {
+    "instruction": "Who wrote 'Wuthering Heights'?",
+    "input": "",
+    "output": "Emily Brontë."
+  },
+  {
+    "instruction": "What is the capital of Ukraine?",
+    "input": "",
+    "output": "The capital of Ukraine is Kyiv."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Barium.",
+    "input": "",
+    "output": "The chemical symbol for Barium is Ba."
+  },
+  {
+    "instruction": "Which planet has the most moons (as of 2021 knowledge)?",
+    "input": "",
+    "output": "Saturn was recorded as having the most moons."
+  },
+  {
+    "instruction": "Who directed the 'Lord of the Rings' trilogy?",
+    "input": "",
+    "output": "Peter Jackson."
+  },
+  {
+    "instruction": "What is the capital of Iraq?",
+    "input": "",
+    "output": "The capital of Iraq is Baghdad."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Xenon.",
+    "input": "",
+    "output": "The chemical symbol for Xenon is Xe."
+  },
+  {
+    "instruction": "What is the value of gravity on Earth?",
+    "input": "",
+    "output": "Approximately 9.81 m/s²."
+  },
+  {
+    "instruction": "Who wrote 'Heart of Darkness'?",
+    "input": "",
+    "output": "Joseph Conrad."
+  },
+  {
+    "instruction": "What is the capital of Malaysia?",
+    "input": "",
+    "output": "The capital of Malaysia is Kuala Lumpur."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Gold.",
+    "input": "",
+    "output": "The chemical symbol for Gold is Au."
+  },
+  {
+    "instruction": "What is the largest planet in our solar system?",
+    "input": "",
+    "output": "Jupiter."
+  },
+  {
+    "instruction": "Who painted 'The Starry Night'?",
+    "input": "",
+    "output": "Vincent van Gogh."
+  },
+  {
+    "instruction": "What is the capital of Iceland?",
+    "input": "",
+    "output": "The capital of Iceland is Reykjavik."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Silver.",
+    "input": "",
+    "output": "The chemical symbol for Silver is Ag."
+  },
+  {
+    "instruction": "Which mountain is the second highest in the world?",
+    "input": "",
+    "output": "K2."
+  },
+  {
+    "instruction": "Who wrote 'The Hobbit'?",
+    "input": "",
+    "output": "J.R.R. Tolkien."
+  },
+  {
+    "instruction": "What is the capital of South Africa?",
+    "input": "",
+    "output": "Pretoria (executive), Bloemfontein (judicial), and Cape Town (legislative)."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Copper.",
+    "input": "",
+    "output": "The chemical symbol for Copper is Cu."
+  },
+  {
+    "instruction": "What is the boiling point of water?",
+    "input": "",
+    "output": "100 degrees Celsius (at standard atmospheric pressure)."
+  },
+  {
+    "instruction": "Who wrote 'Pride and Prejudice'?",
+    "input": "",
+    "output": "Jane Austen."
+  },
+  {
+    "instruction": "What is the capital of Singapore?",
+    "input": "",
+    "output": "Singapore."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Iron.",
+    "input": "",
+    "output": "The chemical symbol for Iron is Fe."
+  },
+  {
+    "instruction": "What is the freezing point of water?",
+    "input": "",
+    "output": "0 degrees Celsius."
+  },
+  {
+    "instruction": "Who wrote '1984'?",
+    "input": "",
+    "output": "George Orwell."
+  },
+  {
+    "instruction": "What is the capital of Switzerland?",
+    "input": "",
+    "output": "Bern."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Sodium.",
+    "input": "",
+    "output": "The chemical symbol for Sodium is Na."
+  },
+  {
+    "instruction": "What is the chemical symbol for Carbon?",
+    "input": "",
+    "output": "The chemical symbol for Carbon is C."
+  },
+  {
+    "instruction": "Who directed 'Inception'?",
+    "input": "",
+    "output": "Christopher Nolan."
+  },
+  {
+    "instruction": "What is the capital of the Netherlands?",
+    "input": "",
+    "output": "Amsterdam."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Oxygen.",
+    "input": "",
+    "output": "The chemical symbol for Oxygen is O."
+  },
+  {
+    "instruction": "What is the name of the longest river in the world?",
+    "input": "",
+    "output": "The Nile."
+  },
+  {
+    "instruction": "Who wrote 'Hamlet'?",
+    "input": "",
+    "output": "William Shakespeare."
+  },
+  {
+    "instruction": "What is the capital of Canada?",
+    "input": "",
+    "output": "Ottawa."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Nitrogen.",
+    "input": "",
+    "output": "The chemical symbol for Nitrogen is N."
+  },
+  {
+    "instruction": "What is the chemical symbol for Calcium?",
+    "input": "",
+    "output": "The chemical symbol for Calcium is Ca."
+  },
+  {
+    "instruction": "Who directed 'Pulp Fiction'?",
+    "input": "",
+    "output": "Quentin Tarantino."
+  },
+  {
+    "instruction": "What is the capital of Australia?",
+    "input": "",
+    "output": "Canberra."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Chlorine.",
+    "input": "",
+    "output": "The chemical symbol for Chlorine is Cl."
+  },
+  {
+    "instruction": "What is the chemical symbol for Sulfur?",
+    "input": "",
+    "output": "The chemical symbol for Sulfur is S."
+  },
+  {
+    "instruction": "Who wrote 'The Odyssey'?",
+    "input": "",
+    "output": "Homer."
+  },
+  {
+    "instruction": "What is the capital of South Korea?",
+    "input": "",
+    "output": "Seoul."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Magnesium.",
+    "input": "",
+    "output": "The chemical symbol for Magnesium is Mg."
+  },
+  {
+    "instruction": "What is the chemical symbol for Titanium.",
+    "input": "",
+    "output": "The chemical symbol for Titanium is Ti."
+  },
+  {
+    "instruction": "Who directed 'The Dark Knight'?",
+    "input": "",
+    "output": "Christopher Nolan."
+  },
+  {
+    "instruction": "What is the capital of Italy?",
+    "input": "",
+    "output": "Rome."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Silicon.",
+    "input": "",
+    "output": "The chemical symbol for Silicon is Si."
+  },
+  {
+    "instruction": "What is the chemical symbol for Lead?",
+    "input": "",
+    "output": "The chemical symbol for Lead is Pb."
+  },
+  {
+    "instruction": "Who wrote 'Romeo and Juliet'?",
+    "input": "",
+    "output": "William Shakespeare."
+  },
+  {
+    "instruction": "What is the capital of Egypt?",
+    "input": "",
+    "output": "Cairo."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Mercury.",
+    "input": "",
+    "output": "The chemical symbol for Mercury is Hg."
+  },
+  {
+    "instruction": "What is the chemical symbol for Zinc?",
+    "input": "",
+    "output": "The chemical symbol for Zinc is Zn."
+  },
+  {
+    "instruction": "Who directed 'Interstellar'?",
+    "input": "",
+    "output": "Christopher Nolan."
+  },
+  {
+    "instruction": "What is the capital of Germany?",
+    "input": "",
+    "output": "Berlin."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Neon.",
+    "input": "",
+    "output": "The chemical symbol for Neon is Ne."
+  },
+  {
+    "instruction": "What is the chemical symbol for Potassium.",
+    "input": "",
+    "output": "The chemical symbol for Potassium is K."
+  },
+  {
+    "instruction": "Who wrote 'Moby-Dick'?",
+    "input": "",
+    "output": "Herman Melville."
+  },
+  {
+    "instruction": "What is the capital of Brazil?",
+    "input": "",
+    "output": "Brasília."
+  },
+  {
+    "instruction": "Identify the gas that makes up the majority of the Sun's composition.",
+    "input": "",
+    "output": "Hydrogen makes up about 73% of the Sun's mass, followed by Helium at approximately 25%."
+  },
+  {
+    "instruction": "What is the capital of Finland?",
+    "input": "",
+    "output": "The capital of Finland is Helsinki."
+  },
+  {
+    "instruction": "Who wrote the novel 'The Picture of Dorian Gray'?",
+    "input": "",
+    "output": "The novel was written by the Irish author Oscar Wilde."
+  },
+  {
+    "instruction": "Identify the element with the atomic number 79.",
+    "input": "",
+    "output": "The element with the atomic number 79 is Gold (Au)."
+  },
+  {
+    "instruction": "Define the astronomical term 'Light-year'.",
+    "input": "",
+    "output": "A light-year is the distance that light travels in a vacuum in one Julian year, which is approximately 9.46 trillion kilometers."
+  },
+  {
+    "instruction": "Which country is the largest in Africa by total area?",
+    "input": "",
+    "output": "Algeria is the largest country in Africa by total land area."
+  },
+  {
+    "instruction": "Who is credited with discovering the law of universal gravitation?",
+    "input": "",
+    "output": "Sir Isaac Newton is credited with formulating the law of universal gravitation."
+  },
+  {
+    "instruction": "Identify the primary language spoken in Austria.",
+    "input": "",
+    "output": "The primary language spoken in Austria is German."
+  },
+  {
+    "instruction": "What is the capital of Vietnam?",
+    "input": "",
+    "output": "The capital of Vietnam is Hanoi."
+  },
+  {
+    "instruction": "Identify the year the Berlin Wall fell.",
+    "input": "",
+    "output": "The Berlin Wall fell on November 9, 1989."
+  },
+  {
+    "instruction": "Who painted 'The Birth of Venus'?",
+    "input": "",
+    "output": "The Birth of Venus was painted by the Italian Renaissance artist Sandro Botticelli."
+  },
+  {
+    "instruction": "What is the chemical formula for Methane?",
+    "input": "",
+    "output": "The chemical formula for Methane is CH4."
+  },
+  {
+    "instruction": "Identify the smallest state in the USA by land area.",
+    "input": "",
+    "output": "Rhode Island is the smallest state in the United States by land area."
+  },
+  {
+    "instruction": "Who wrote the play 'Waiting for Godot'?",
+    "input": "",
+    "output": "The play was written by Samuel Beckett."
+  },
+  {
+    "instruction": "What is the currency used in Switzerland?",
+    "input": "",
+    "output": "The currency used in Switzerland is the Swiss Franc (CHF)."
+  },
+  {
+    "instruction": "Identify the first person to reach the South Pole.",
+    "input": "",
+    "output": "The Norwegian explorer Roald Amundsen was the first person to reach the South Pole in 1911."
+  },
+  {
+    "instruction": "What is the main ingredient of traditional Japanese Tofu?",
+    "input": "",
+    "output": "The main ingredient of tofu is soy milk, which is coagulated to form curds."
+  },
+  {
+    "instruction": "Identify the architect who designed the glass pyramid at the Louvre Museum.",
+    "input": "",
+    "output": "The glass pyramid at the Louvre was designed by the Chinese-American architect I. M. Pei."
+  },
+  {
+    "instruction": "What is the capital of Morocco?",
+    "input": "",
+    "output": "The capital of Morocco is Rabat."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Tungsten.",
+    "input": "",
+    "output": "The chemical symbol for Tungsten is W, derived from its German name 'Wolfram'."
+  },
+  {
+    "instruction": "Who was the first woman to win a Nobel Prize in two different scientific fields?",
+    "input": "",
+    "output": "Marie Curie won the Nobel Prize in Physics (1903) and Chemistry (1911)."
+  },
+  {
+    "instruction": "Name the three colors of the German flag.",
+    "input": "",
+    "output": "The colors are Black, Red, and Gold (arranged horizontally)."
+  },
+  {
+    "instruction": "What is the capital of Saudi Arabia?",
+    "input": "",
+    "output": "The capital of Saudi Arabia is Riyadh."
+  },
+  {
+    "instruction": "Define 'Absolute Zero' in temperature.",
+    "input": "",
+    "output": "Absolute zero is the lowest possible temperature, where all thermal motion of particles stops, defined as 0 Kelvin or -273.15 degrees Celsius."
+  },
+  {
+    "instruction": "Identify the author of 'The Metamorphosis'.",
+    "input": "",
+    "output": "The author of 'The Metamorphosis' is Franz Kafka."
+  },
+  {
+    "instruction": "What is the largest internal organ in the human body?",
+    "input": "",
+    "output": "The liver is the largest internal organ in the human body."
+  },
+  {
+    "instruction": "Identify the planet known as the 'Ice Giant' closest to the Sun.",
+    "input": "",
+    "output": "Uranus is the first of the two ice giants in our solar system."
+  },
+  {
+    "instruction": "Who was the primary author of the Communist Manifesto?",
+    "input": "",
+    "output": "The Communist Manifesto was primarily written by Karl Marx and Friedrich Engels."
+  },
+  {
+    "instruction": "What is the capital of the Philippines?",
+    "input": "",
+    "output": "The capital of the Philippines is Manila."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Lead.",
+    "input": "",
+    "output": "The chemical symbol for Lead is Pb, from the Latin word 'Plumbum'."
+  },
+  {
+    "instruction": "What is the study of birds called?",
+    "input": "",
+    "output": "The scientific study of birds is called Ornithology."
+  },
+  {
+    "instruction": "Identify the year of the first modern Olympic Games.",
+    "input": "",
+    "output": "The first modern Olympic Games were held in Athens, Greece, in 1896."
+  },
+  {
+    "instruction": "Who directed the film 'The Godfather'?",
+    "input": "",
+    "output": "The film 'The Godfather' was directed by Francis Ford Coppola."
+  },
+  {
+    "instruction": "What is the capital of Iraq?",
+    "input": "",
+    "output": "The capital of Iraq is Baghdad."
+  },
+  {
+    "instruction": "Identify the gas that plants absorb for photosynthesis.",
+    "input": "",
+    "output": "Plants absorb Carbon Dioxide (CO2) for the process of photosynthesis."
+  },
+  {
+    "instruction": "Who was the leader of the Zulu Kingdom who expanded its influence in the early 19th century?",
+    "input": "",
+    "output": "Shaka Zulu was the influential leader of the Zulu Kingdom."
+  },
+  {
+    "instruction": "What is the capital of Greece?",
+    "input": "",
+    "output": "The capital of Greece is Athens."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Potassium.",
+    "input": "",
+    "output": "The chemical symbol for Potassium is K."
+  },
+  {
+    "instruction": "Which ocean is the smallest in the world?",
+    "input": "",
+    "output": "The Arctic Ocean is the smallest and shallowest of the world's five major oceans."
+  },
+  {
+    "instruction": "Who wrote 'The Chronicles of Narnia' series?",
+    "input": "",
+    "output": "The series was written by C. S. Lewis."
+  },
+  {
+    "instruction": "What is the capital of Sweden?",
+    "input": "",
+    "output": "The capital of Sweden is Stockholm."
+  },
+  {
+    "instruction": "Identify the discoverer of the structure of DNA along with James Watson.",
+    "input": "",
+    "output": "Francis Crick, along with contributions from Rosalind Franklin and Maurice Wilkins, discovered the structure of DNA."
+  },
+  {
+    "instruction": "What is the largest volcano in our solar system?",
+    "input": "",
+    "output": "Olympus Mons, located on Mars, is the largest volcano in our solar system."
+  },
+  {
+    "instruction": "Identify the capital of Peru?",
+    "input": "",
+    "output": "The capital of Peru is Lima."
+  },
+  {
+    "instruction": "Who was the first President of the United States to be impeached?",
+    "input": "",
+    "output": "Andrew Johnson was the first U.S. President to be impeached in 1868."
+  },
+  {
+    "instruction": "What is the chemical symbol for Tin?",
+    "input": "",
+    "output": "The chemical symbol for Tin is Sn."
+  },
+  {
+    "instruction": "Identify the city known as the 'Eternal City'.",
+    "input": "",
+    "output": "Rome is famously known as the 'Eternal City'."
+  },
+  {
+    "instruction": "Who is the author of 'Anna Karenina'?",
+    "input": "",
+    "output": "The author of 'Anna Karenina' is Leo Tolstoy."
+  },
+  {
+    "instruction": "What is the capital of New Zealand?",
+    "input": "",
+    "output": "The capital of New Zealand is Wellington."
+  },
+  {
+    "instruction": "Identify the primary source of the Earth's energy.",
+    "input": "",
+    "output": "The Sun is the primary source of energy for the Earth."
+  },
+  {
+    "instruction": "Who painted the 'Girl with a Pearl Earring'?",
+    "input": "",
+    "output": "The painting was created by the Dutch artist Johannes Vermeer."
+  },
+  {
+    "instruction": "What is the capital of Malaysia?",
+    "input": "",
+    "output": "The capital of Malaysia is Kuala Lumpur."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Sodium.",
+    "input": "",
+    "output": "The chemical symbol for Sodium is Na."
+  },
+  {
+    "instruction": "Who was the first human to travel into outer space?",
+    "input": "",
+    "output": "Yuri Gagarin, a Soviet cosmonaut, was the first human in space in 1961."
+  },
+  {
+    "instruction": "What is the capital of Portugal?",
+    "input": "",
+    "output": "The capital of Portugal is Lisbon."
+  },
+  {
+    "instruction": "Identify the year of the Great Fire of London.",
+    "input": "",
+    "output": "The Great Fire of London occurred in 1666."
+  },
+  {
+    "instruction": "Who wrote 'Brave New World'?",
+    "input": "",
+    "output": "The novel was written by Aldous Huxley."
+  },
+  {
+    "instruction": "What is the capital of Poland?",
+    "input": "",
+    "output": "The capital of Poland is Warsaw."
+  },
+  {
+    "instruction": "Identify the chemical formula for Glucose.",
+    "input": "",
+    "output": "The chemical formula for Glucose is C6H12O6."
+  },
+  {
+    "instruction": "Who was the leader of the Civil Rights Movement in the US known for the Montgomery Bus Boycott?",
+    "input": "",
+    "output": "Rosa Parks and Martin Luther King Jr. were key figures in the Montgomery Bus Boycott."
+  },
+  {
+    "instruction": "What is the capital of Pakistan?",
+    "input": "",
+    "output": "The capital of Pakistan is Islamabad."
+  },
+  {
+    "instruction": "Identify the Greek god of the sea.",
+    "input": "",
+    "output": "Poseidon is the Greek god of the sea."
+  },
+  {
+    "instruction": "Who wrote 'The Stranger' (L'Étranger)?",
+    "input": "",
+    "output": "The novel was written by Albert Camus."
+  },
+  {
+    "instruction": "What is the capital of Cuba?",
+    "input": "",
+    "output": "The capital of Cuba is Havana."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Mercury.",
+    "input": "",
+    "output": "The chemical symbol for Mercury is Hg."
+  },
+  {
+    "instruction": "Who discovered the laws of heredity?",
+    "input": "",
+    "output": "Gregor Mendel is known as the father of genetics for his discovery of the laws of heredity."
+  },
+  {
+    "instruction": "What is the capital of Ukraine?",
+    "input": "",
+    "output": "The capital of Ukraine is Kyiv."
+  },
+  {
+    "instruction": "Identify the planet that has the Great Red Spot.",
+    "input": "",
+    "output": "Jupiter is the planet famous for its Great Red Spot, a massive storm."
+  },
+  {
+    "instruction": "Who painted the 'Sistine Chapel' ceiling?",
+    "input": "",
+    "output": "Michelangelo painted the ceiling of the Sistine Chapel."
+  },
+  {
+    "instruction": "What is the capital of Argentina?",
+    "input": "",
+    "output": "The capital of Argentina is Buenos Aires."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Iron.",
+    "input": "",
+    "output": "The chemical symbol for Iron is Fe."
+  },
+  {
+    "instruction": "Who wrote 'Sense and Sensibility'?",
+    "input": "",
+    "output": "The novel was written by Jane Austen."
+  },
+  {
+    "instruction": "What is the capital of Chile?",
+    "input": "",
+    "output": "The capital of Chile is Santiago."
+  },
+  {
+    "instruction": "Identify the first satellite launched into space by the United States.",
+    "input": "",
+    "output": "The first U.S. satellite was Explorer 1, launched in 1958."
+  },
+  {
+    "instruction": "Who wrote 'The Divine Comedy'?",
+    "input": "",
+    "output": "The Divine Comedy was written by Dante Alighieri."
+  },
+  {
+    "instruction": "What is the capital of Egypt?",
+    "input": "",
+    "output": "The capital of Egypt is Cairo."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Silver.",
+    "input": "",
+    "output": "The chemical symbol for Silver is Ag."
+  },
+  {
+    "instruction": "Who discovered the circulation of blood?",
+    "input": "",
+    "output": "William Harvey was the first to describe in detail the systemic circulation of blood."
+  },
+  {
+    "instruction": "What is the capital of Belgium?",
+    "input": "",
+    "output": "The capital of Belgium is Brussels."
+  },
+  {
+    "instruction": "Identify the author of 'Wuthering Heights'.",
+    "input": "",
+    "output": "The author of 'Wuthering Heights' is Emily Brontë."
+  },
+  {
+    "instruction": "What is the boiling point of water in Fahrenheit?",
+    "input": "",
+    "output": "At sea level, the boiling point of water is 212°F."
+  },
+  {
+    "instruction": "Identify the capital of Thailand?",
+    "input": "",
+    "output": "The capital of Thailand is Bangkok."
+  },
+  {
+    "instruction": "Who was the legendary king of Camelot?",
+    "input": "",
+    "output": "King Arthur is the legendary king of Camelot."
+  },
+  {
+    "instruction": "What is the chemical symbol for Platinum?",
+    "input": "",
+    "output": "The chemical symbol for Platinum is Pt."
+  },
+  {
+    "instruction": "Identify the longest river in Asia.",
+    "input": "",
+    "output": "The Yangtze River is the longest river in Asia."
+  },
+  {
+    "instruction": "Who wrote 'Crime and Punishment'?",
+    "input": "",
+    "output": "The novel was written by Fyodor Dostoevsky."
+  },
+  {
+    "instruction": "What is the capital of Colombia?",
+    "input": "",
+    "output": "The capital of Colombia is Bogotá."
+  },
+  {
+    "instruction": "Identify the process of liquid water turning into gas.",
+    "input": "",
+    "output": "The process is called evaporation."
+  },
+  {
+    "instruction": "Who painted 'The Night Watch'?",
+    "input": "",
+    "output": "The painting was created by Rembrandt van Rijn."
+  },
+  {
+    "instruction": "What is the capital of South Korea?",
+    "input": "",
+    "output": "The capital of South Korea is Seoul."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Calcium.",
+    "input": "",
+    "output": "The chemical symbol for Calcium is Ca."
+  },
+  {
+    "instruction": "Who was the Egyptian queen who had relationships with Julius Caesar and Mark Antony?",
+    "input": "",
+    "output": "Cleopatra VII was the famous queen of Egypt."
+  },
+  {
+    "instruction": "What is the capital of Norway?",
+    "input": "",
+    "output": "The capital of Norway is Oslo."
+  },
+  {
+    "instruction": "Identify the author of 'The Old Man and the Sea'.",
+    "input": "",
+    "output": "The author is Ernest Hemingway."
+  },
+  {
+    "instruction": "What is the chemical symbol for Helium?",
+    "input": "",
+    "output": "The chemical symbol for Helium is He."
+  },
+  {
+    "instruction": "Who developed the theory of evolution by natural selection?",
+    "input": "",
+    "output": "Charles Darwin developed the theory of evolution."
+  },
+  {
+    "instruction": "What is the capital of Hungary?",
+    "input": "",
+    "output": "The capital of Hungary is Budapest."
+  },
+  {
+    "instruction": "Identify the largest coral reef system in the world.",
+    "input": "",
+    "output": "The Great Barrier Reef in Australia is the world's largest coral reef system."
+  },
+  {
+    "instruction": "Who wrote 'The Great Gatsby'?",
+    "input": "",
+    "output": "The novel was written by F. Scott Fitzgerald."
+  },
+  {
+    "instruction": "What is the capital of Indonesia?",
+    "input": "",
+    "output": "The capital of Indonesia is Jakarta."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Chlorine.",
+    "input": "",
+    "output": "The chemical symbol for Chlorine is Cl."
+  },
+  {
+    "instruction": "Who discovered Penicillin?",
+    "input": "",
+    "output": "Alexander Fleming discovered penicillin in 1928."
+  },
+  {
+    "instruction": "What is the capital of Ireland?",
+    "input": "",
+    "output": "The capital of Ireland is Dublin."
+  },
+  {
+    "instruction": "Identify the planet closest to the Sun.",
+    "input": "",
+    "output": "Mercury is the planet closest to the Sun."
+  },
+  {
+    "instruction": "Who wrote 'Les Misérables'?",
+    "input": "",
+    "output": "The novel was written by Victor Hugo."
+  },
+  {
+    "instruction": "What is the capital of the Czech Republic?",
+    "input": "",
+    "output": "The capital of the Czech Republic is Prague."
+  },
+  {
+    "instruction": "Identify the chemical formula for water.",
+    "input": "",
+    "output": "The chemical formula for water is H2O."
+  },
+  {
+    "instruction": "Who was the first person to sail around the world?",
+    "input": "",
+    "output": "The expedition led by Ferdinand Magellan was the first to circumnavigate the globe, though he died before completion."
+  },
+  {
+    "instruction": "What is the capital of Singapore?",
+    "input": "",
+    "output": "The capital of Singapore is Singapore (it is a city-state)."
+  },
+  {
+    "instruction": "Identify the author of 'Ulysses'.",
+    "input": "",
+    "output": "The author of 'Ulysses' is James Joyce."
+  },
+  {
+    "instruction": "What is the chemical symbol for Nitrogen?",
+    "input": "",
+    "output": "The chemical symbol for Nitrogen is N."
+  },
+  {
+    "instruction": "Who wrote 'A Christmas Carol'?",
+    "input": "",
+    "output": "The story was written by Charles Dickens."
+  },
+  {
+    "instruction": "What is the capital of Romania?",
+    "input": "",
+    "output": "The capital of Romania is Bucharest."
+  },
+  {
+    "instruction": "Identify the gas that is most abundant in Earth's atmosphere.",
+    "input": "",
+    "output": "Nitrogen is the most abundant gas, making up about 78% of Earth's atmosphere."
+  },
+  {
+    "instruction": "Who directed the movie 'Schindler's List'?",
+    "input": "",
+    "output": "The movie was directed by Steven Spielberg."
+  },
+  {
+    "instruction": "What is the capital of Denmark?",
+    "input": "",
+    "output": "The capital of Denmark is Copenhagen."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Oxygen.",
+    "input": "",
+    "output": "The chemical symbol for Oxygen is O."
+  },
+  {
+    "instruction": "Who wrote 'The Raven'?",
+    "input": "",
+    "output": "The poem 'The Raven' was written by Edgar Allan Poe."
+  },
+  {
+    "instruction": "What is the capital of Israel?",
+    "input": "",
+    "output": "The capital of Israel is Jerusalem."
+  },
+  {
+    "instruction": "Identify the part of the cell responsible for producing energy.",
+    "input": "",
+    "output": "The mitochondria are responsible for producing energy through cellular respiration."
+  },
+  {
+    "instruction": "Who wrote 'Moby-Dick'?",
+    "input": "",
+    "output": "The novel was written by Herman Melville."
+  },
+  {
+    "instruction": "What is the capital of Austria?",
+    "input": "",
+    "output": "The capital of Austria is Vienna."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Carbon.",
+    "input": "",
+    "output": "The chemical symbol for Carbon is C."
+  },
+  {
+    "instruction": "Who was the main architect of the Taj Mahal?",
+    "input": "",
+    "output": "Ustad Ahmad Lahauri is generally considered the chief architect of the Taj Mahal."
+  },
+  {
+    "instruction": "What is the capital of Turkey?",
+    "input": "",
+    "output": "The capital of Turkey is Ankara."
+  },
+  {
+    "instruction": "Identify the author of 'Fahrenheit 451'.",
+    "input": "",
+    "output": "The author is Ray Bradbury."
+  },
+  {
+    "instruction": "What is the chemical symbol for Magnesium.",
+    "input": "",
+    "output": "The chemical symbol for Magnesium is Mg."
+  },
+  {
+    "instruction": "Who wrote 'The Odyssey'?",
+    "input": "",
+    "output": "The Odyssey is attributed to the ancient Greek poet Homer."
+  },
+  {
+    "instruction": "What is the capital of Iran?",
+    "input": "",
+    "output": "The capital of Iran is Tehran."
+  },
+  {
+    "instruction": "Identify the largest continent by population.",
+    "input": "",
+    "output": "Asia is the largest continent by population."
+  },
+  {
+    "instruction": "Who wrote 'Jane Eyre'?",
+    "input": "",
+    "output": "The novel was written by Charlotte Brontë."
+  },
+  {
+    "instruction": "What is the capital of Nigeria?",
+    "input": "",
+    "output": "The capital of Nigeria is Abuja."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Copper.",
+    "input": "",
+    "output": "The chemical symbol for Copper is Cu."
+  },
+  {
+    "instruction": "Who was the first President of the United States?",
+    "input": "",
+    "output": "George Washington was the first President of the United States."
+  },
+  {
+    "instruction": "What is the capital of Venezuela?",
+    "input": "",
+    "output": "The capital of Venezuela is Caracas."
+  },
+  {
+    "instruction": "Identify the author of 'One Hundred Years of Solitude'.",
+    "input": "",
+    "output": "The novel was written by Gabriel García Márquez."
+  },
+  {
+    "instruction": "What is the chemical symbol for Silicon?",
+    "input": "",
+    "output": "The chemical symbol for Silicon is Si."
+  },
+  {
+    "instruction": "Who wrote the 'Iliad'?",
+    "input": "",
+    "output": "The Iliad is attributed to Homer."
+  },
+  {
+    "instruction": "What is the capital of Kenya?",
+    "input": "",
+    "output": "The capital of Kenya is Nairobi."
+  },
+  {
+    "instruction": "Identify the study of fossils.",
+    "input": "",
+    "output": "The study of fossils is called Paleontology."
+  },
+  {
+    "instruction": "Who painted 'Guernica'?",
+    "input": "",
+    "output": "Guernica was painted by Pablo Picasso."
+  },
+  {
+    "instruction": "What is the capital of Bangladesh?",
+    "input": "",
+    "output": "The capital of Bangladesh is Dhaka."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Phosphorus.",
+    "input": "",
+    "output": "The chemical symbol for Phosphorus is P."
+  },
+  {
+    "instruction": "Who wrote 'The Catcher in the Rye'?",
+    "input": "",
+    "output": "The novel was written by J. D. Salinger."
+  },
+  {
+    "instruction": "What is the capital of Ethiopia?",
+    "input": "",
+    "output": "The capital of Ethiopia is Addis Ababa."
+  },
+  {
+    "instruction": "Identify the smallest planet in our solar system.",
+    "input": "",
+    "output": "Mercury is the smallest planet in our solar system."
+  },
+  {
+    "instruction": "Who wrote 'Frankenstein'?",
+    "input": "",
+    "output": "The novel was written by Mary Shelley."
+  },
+  {
+    "instruction": "What is the capital of Algeria?",
+    "input": "",
+    "output": "The capital of Algeria is Algiers."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Zinc.",
+    "input": "",
+    "output": "The chemical symbol for Zinc is Zn."
+  },
+  {
+    "instruction": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "input": "",
+    "output": "Amelia Earhart was the first woman to fly solo across the Atlantic in 1932."
+  },
+  {
+    "instruction": "What is the capital of the Netherlands?",
+    "input": "",
+    "output": "The capital of the Netherlands is Amsterdam."
+  },
+  {
+    "instruction": "Identify the author of 'The Alchemist'.",
+    "input": "",
+    "output": "The author of 'The Alchemist' is Paulo Coelho."
+  },
+  {
+    "instruction": "What is the chemical symbol for Aluminum.",
+    "input": "",
+    "output": "The chemical symbol for Aluminum is Al."
+  },
+  {
+    "instruction": "Who wrote 'Great Expectations'?",
+    "input": "",
+    "output": "The novel was written by Charles Dickens."
+  },
+  {
+    "instruction": "What is the capital of Ghana?",
+    "input": "",
+    "output": "The capital of Ghana is Accra."
+  },
+  {
+    "instruction": "Identify the year World War II ended.",
+    "input": "",
+    "output": "World War II ended in 1945."
+  },
+  {
+    "instruction": "Who wrote 'The Brothers Karamazov'?",
+    "input": "",
+    "output": "The novel was written by Fyodor Dostoevsky."
+  },
+  {
+    "instruction": "What is the capital of Cuba?",
+    "input": "",
+    "output": "The capital of Cuba is Havana."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Barium.",
+    "input": "",
+    "output": "The chemical symbol for Barium is Ba."
+  },
+  {
+    "instruction": "Who painted 'The Last Supper'?",
+    "input": "",
+    "output": "The Last Supper was painted by Leonardo da Vinci."
+  },
+  {
+    "instruction": "What is the capital of Nepal?",
+    "input": "",
+    "output": "The capital of Nepal is Kathmandu."
+  },
+  {
+    "instruction": "Identify the largest mammal in the world.",
+    "input": "",
+    "output": "The Blue Whale is the largest mammal in the world."
+  },
+  {
+    "instruction": "Who wrote 'The Little Prince'?",
+    "input": "",
+    "output": "The book was written by Antoine de Saint-Exupéry."
+  },
+  {
+    "instruction": "What is the capital of Sri Lanka?",
+    "input": "",
+    "output": "Sri Jayawardenepura Kotte (administrative) and Colombo (commercial)."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Iodine.",
+    "input": "",
+    "output": "The chemical symbol for Iodine is I."
+  },
+  {
+    "instruction": "Who discovered the laws of motion?",
+    "input": "",
+    "output": "Sir Isaac Newton formulated the laws of motion."
+  },
+  {
+    "instruction": "What is the capital of Tanzania?",
+    "input": "",
+    "output": "The capital of Tanzania is Dodoma."
+  },
+  {
+    "instruction": "Identify the author of 'Lolita'.",
+    "input": "",
+    "output": "The author of 'Lolita' is Vladimir Nabokov."
+  },
+  {
+    "instruction": "What is the chemical symbol for Cobalt.",
+    "input": "",
+    "output": "The chemical symbol for Cobalt is Co."
+  },
+  {
+    "instruction": "Who wrote 'To Kill a Mockingbird'?",
+    "input": "",
+    "output": "The novel was written by Harper Lee."
+  },
+  {
+    "instruction": "What is the capital of Uruguay?",
+    "input": "",
+    "output": "The capital of Uruguay is Montevideo."
+  },
+  {
+    "instruction": "Identify the hard white substance that makes up the tusks of elephants.",
+    "input": "",
+    "output": "The substance is called Ivory."
+  },
+  {
+    "instruction": "Who directed the movie 'Pulp Fiction'?",
+    "input": "",
+    "output": "The movie was directed by Quentin Tarantino."
+  },
+  {
+    "instruction": "What is the capital of Jordan?",
+    "input": "",
+    "output": "The capital of Jordan is Amman."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Manganese.",
+    "input": "",
+    "output": "The chemical symbol for Manganese is Mn."
+  },
+  {
+    "instruction": "Who wrote 'Paradise Lost'?",
+    "input": "",
+    "output": "The epic poem was written by John Milton."
+  },
+  {
+    "instruction": "What is the capital of Azerbaijan?",
+    "input": "",
+    "output": "The capital of Azerbaijan is Baku."
+  },
+  {
+    "instruction": "Identify the largest reef in the world.",
+    "input": "",
+    "output": "The Great Barrier Reef."
+  },
+  {
+    "instruction": "Who wrote 'The Hunchback of Notre-Dame'?",
+    "input": "",
+    "output": "The novel was written by Victor Hugo."
+  },
+  {
+    "instruction": "What is the capital of Lebanon?",
+    "input": "",
+    "output": "The capital of Lebanon is Beirut."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Arsenic.",
+    "input": "",
+    "output": "The chemical symbol for Arsenic is As."
+  },
+  {
+    "instruction": "Who wrote 'A Tale of Two Cities'?",
+    "input": "",
+    "output": "The novel was written by Charles Dickens."
+  },
+  {
+    "instruction": "What is the capital of Serbia?",
+    "input": "",
+    "output": "The capital of Serbia is Belgrade."
+  },
+  {
+    "instruction": "Identify the first emperor of Rome.",
+    "input": "",
+    "output": "Augustus Caesar was the first emperor of Rome."
+  },
+  {
+    "instruction": "Who wrote 'Heart of Darkness'?",
+    "input": "",
+    "output": "The novella was written by Joseph Conrad."
+  },
+  {
+    "instruction": "What is the capital of Croatia?",
+    "input": "",
+    "output": "The capital of Croatia is Zagreb."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Nickel.",
+    "input": "",
+    "output": "The chemical symbol for Nickel is Ni."
+  },
+  {
+    "instruction": "Who wrote 'The Grapes of Wrath'?",
+    "input": "",
+    "output": "The novel was written by John Steinbeck."
+  },
+  {
+    "instruction": "What is the capital of Bulgaria?",
+    "input": "",
+    "output": "The capital of Bulgaria is Sofia."
+  },
+  {
+    "instruction": "Identify the process by which plants make their food.",
+    "input": "",
+    "output": "The process is called photosynthesis."
+  },
+  {
+    "instruction": "Who wrote 'Gulliver's Travels'?",
+    "input": "",
+    "output": "The novel was written by Jonathan Swift."
+  },
+  {
+    "instruction": "What is the capital of Slovakia?",
+    "input": "",
+    "output": "The capital of Slovakia is Bratislava."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Fluorine.",
+    "input": "",
+    "output": "The chemical symbol for Fluorine is F."
+  },
+  {
+    "instruction": "Who wrote 'The Sound and the Fury'?",
+    "input": "",
+    "output": "The novel was written by William Faulkner."
+  },
+  {
+    "instruction": "What is the capital of Qatar?",
+    "input": "",
+    "output": "The capital of Qatar is Doha."
+  },
+  {
+    "instruction": "Identify the units used to measure force.",
+    "input": "",
+    "output": "Force is measured in Newtons (N)."
+  },
+  {
+    "instruction": "Who wrote 'The Picture of Dorian Gray'?",
+    "input": "",
+    "output": "Oscar Wilde."
+  },
+  {
+    "instruction": "What is the capital of Ecuador?",
+    "input": "",
+    "output": "The capital of Ecuador is Quito."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Boron.",
+    "input": "",
+    "output": "The chemical symbol for Boron is B."
+  },
+  {
+    "instruction": "Identify the author of the epic poem 'Paradise Lost'.",
+    "input": "",
+    "output": "The epic poem 'Paradise Lost' was written by the 17th-century English poet John Milton."
+  },
+  {
+    "instruction": "What is the capital city of Mongolia?",
+    "input": "",
+    "output": "The capital city of Mongolia is Ulaanbaatar."
+  },
+  {
+    "instruction": "Name the three types of rock found in the Earth's crust.",
+    "input": "",
+    "output": "The three main types of rocks are igneous, sedimentary, and metamorphic."
+  },
+  {
+    "instruction": "Define the mathematical constant 'Pi'.",
+    "input": "",
+    "output": "Pi (π) is a mathematical constant representing the ratio of a circle's circumference to its diameter, approximately equal to 3.14159."
+  },
+  {
+    "instruction": "Who was the first woman to be awarded a Nobel Prize?",
+    "output": "Marie Curie was the first woman to win a Nobel Prize, which she received in Physics in 1903."
+  },
+  {
+    "instruction": "What is the chemical symbol for the element Tungsten?",
+    "input": "",
+    "output": "The chemical symbol for Tungsten is W, which comes from its alternative name, Wolfram."
+  },
+  {
+    "instruction": "Which treaty ended the American Revolutionary War in 1783?",
+    "input": "",
+    "output": "The Treaty of Paris, signed in 1783, formally ended the American Revolutionary War."
+  },
+  {
+    "instruction": "Identify the largest species of shark currently living in the ocean.",
+    "input": "",
+    "output": "The Whale Shark (Rhincodon typus) is the largest living species of shark."
+  },
+  {
+    "instruction": "What is the capital of Iceland?",
+    "input": "",
+    "output": "The capital of Iceland is Reykjavík."
+  },
+  {
+    "instruction": "Who is the creator of the fictional detective Hercule Poirot?",
+    "input": "",
+    "output": "Hercule Poirot was created by the British author Agatha Christie."
+  },
+  {
+    "instruction": "Identify the main gas found in the atmosphere of Venus.",
+    "input": "",
+    "output": "The atmosphere of Venus is composed almost entirely (about 96.5%) of Carbon Dioxide."
+  },
+  {
+    "instruction": "What is the official language of Brazil?",
+    "input": "",
+    "output": "The official language of Brazil is Portuguese."
+  },
+  {
+    "instruction": "In which city is the headquarters of the International Monetary Fund (IMF) located?",
+    "input": "",
+    "output": "The IMF is headquartered in Washington, D.C., United States."
+  },
+  {
+    "instruction": "Who wrote the 1859 book 'On the Origin of Species'?",
+    "input": "",
+    "output": "Charles Darwin wrote 'On the Origin of Species'."
+  },
+  {
+    "instruction": "What is the square root of 144?",
+    "input": "",
+    "output": "The square root of 144 is 12."
+  },
+  {
+    "instruction": "Identify the planet in our solar system that rotates on its side.",
+    "input": "",
+    "output": "Uranus is the planet that has a unique axial tilt, causing it to rotate nearly on its side."
+  },
+  {
+    "instruction": "Name the four cardinal directions.",
+    "input": "",
+    "output": "The four cardinal directions are North, South, East, and West."
+  },
+  {
+    "instruction": "What is the capital city of Kenya?",
+    "input": "",
+    "output": "The capital city of Kenya is Nairobi."
+  },
+  {
+    "instruction": "Who was the last Tsar of Russia?",
+    "input": "",
+    "output": "Nicholas II was the last Emperor (Tsar) of Russia, reigning until his abdication in 1917."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Antimony.",
+    "input": "",
+    "output": "The chemical symbol for Antimony is Sb, derived from its Latin name 'Stibium'."
+  },
+  {
+    "instruction": "What is the longest river in Europe?",
+    "input": "",
+    "output": "The Volga River is the longest river in Europe, flowing through Russia."
+  },
+  {
+    "instruction": "Define the term 'Ecosystem'.",
+    "input": "",
+    "output": "An ecosystem is a community of living organisms in conjunction with the nonliving components of their environment, interacting as a system."
+  },
+  {
+    "instruction": "Who painted 'The Garden of Earthly Delights'?",
+    "input": "",
+    "output": "The triptych 'The Garden of Earthly Delights' was painted by the Dutch master Hieronymus Bosch."
+  },
+  {
+    "instruction": "What is the capital of South Korea?",
+    "input": "",
+    "output": "The capital of South Korea is Seoul."
+  },
+  {
+    "instruction": "Identify the first African American to serve as a Justice on the US Supreme Court.",
+    "input": "",
+    "output": "Thurgood Marshall was the first African American Supreme Court Justice, appointed in 1967."
+  },
+  {
+    "instruction": "What is the boiling point of water in Kelvin?",
+    "input": "",
+    "output": "The boiling point of water at standard atmospheric pressure is 373.15 Kelvin."
+  },
+  {
+    "instruction": "Who wrote the gothic novel 'Dracula'?",
+    "input": "",
+    "output": "Bram Stoker is the author of the 1897 novel 'Dracula'."
+  },
+  {
+    "instruction": "Which country is home to the world's largest non-polar desert?",
+    "input": "",
+    "output": "The Sahara Desert is located in Northern Africa, spanning several countries including Algeria, Chad, Egypt, Libya, Mali, Mauritania, Morocco, Niger, Sudan, and Tunisia."
+  },
+  {
+    "instruction": "Identify the chemical element with atomic number 1.",
+    "input": "",
+    "output": "Hydrogen is the chemical element with the atomic number 1."
+  },
+  {
+    "instruction": "What is the capital of Thailand?",
+    "input": "",
+    "output": "The capital of Thailand is Bangkok."
+  },
+  {
+    "instruction": "Who discovered the planet Uranus?",
+    "input": "",
+    "output": "William Herschel discovered Uranus on March 13, 1781."
+  },
+  {
+    "instruction": "Name the five human senses.",
+    "input": "",
+    "output": "The five traditional human senses are sight, hearing, smell, taste, and touch."
+  },
+  {
+    "instruction": "What is the currency used in Mexico?",
+    "input": "",
+    "output": "The currency used in Mexico is the Mexican Peso."
+  },
+  {
+    "instruction": "Identify the author of 'The Grapes of Wrath'.",
+    "input": "",
+    "output": "John Steinbeck wrote 'The Grapes of Wrath', published in 1939."
+  },
+  {
+    "instruction": "What is the largest country in Africa by land area?",
+    "input": "",
+    "output": "Algeria is the largest country in Africa by land area."
+  },
+  {
+    "instruction": "Who was the architect of the Solomon R. Guggenheim Museum in New York?",
+    "input": "",
+    "output": "Frank Lloyd Wright was the architect of the Guggenheim Museum."
+  },
+  {
+    "instruction": "What is the chemical formula for Sulfuric Acid?",
+    "input": "",
+    "output": "The chemical formula for Sulfuric Acid is H2SO4."
+  },
+  {
+    "instruction": "Identify the city that hosted the first modern Summer Olympic Games in 1896.",
+    "input": "",
+    "output": "The first modern Summer Olympics were held in Athens, Greece."
+  },
+  {
+    "instruction": "What is the capital of Vietnam?",
+    "input": "",
+    "output": "The capital of Vietnam is Hanoi."
+  },
+  {
+    "instruction": "Who is known as the 'Father of Geometry'?",
+    "input": "",
+    "output": "Euclid, an ancient Greek mathematician, is often referred to as the 'Father of Geometry'."
+  },
+  {
+    "instruction": "Name the part of the plant that conducts photosynthesis.",
+    "input": "",
+    "output": "The leaves are the primary part of the plant where photosynthesis occurs."
+  },
+  {
+    "instruction": "What is the capital city of Ethiopia?",
+    "input": "",
+    "output": "The capital city of Ethiopia is Addis Ababa."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Silver.",
+    "input": "",
+    "output": "The chemical symbol for Silver is Ag, from the Latin word 'Argentum'."
+  },
+  {
+    "instruction": "Who wrote the play 'Waiting for Godot'?",
+    "input": "",
+    "output": "The play was written by the Irish playwright Samuel Beckett."
+  },
+  {
+    "instruction": "What is the name of the highest waterfall in the world?",
+    "input": "",
+    "output": "Angel Falls in Venezuela is the world's highest uninterrupted waterfall."
+  },
+  {
+    "instruction": "Identify the year in which the Titanic sank.",
+    "input": "",
+    "output": "The RMS Titanic sank on April 15, 1912."
+  },
+  {
+    "instruction": "Who was the first person to sail around the tip of Africa to India?",
+    "input": "",
+    "output": "Vasco da Gama was the first European to reach India by sea, sailing around the Cape of Good Hope in 1498."
+  },
+  {
+    "instruction": "What is the chemical symbol for Sodium?",
+    "input": "",
+    "output": "The chemical symbol for Sodium is Na, from the Latin word 'Natrium'."
+  },
+  {
+    "instruction": "Identify the author of the 'Harry Potter' book series.",
+    "input": "",
+    "output": "The 'Harry Potter' series was written by J.K. Rowling."
+  },
+  {
+    "instruction": "What is the capital of Peru?",
+    "input": "",
+    "output": "The capital of Peru is Lima."
+  },
+  {
+    "instruction": "Name the force that pulls objects toward the center of the Earth.",
+    "input": "",
+    "output": "The force is gravity."
+  },
+  {
+    "instruction": "Who directed the 1993 film 'Schindler's List'?",
+    "input": "",
+    "output": "The film was directed by Steven Spielberg."
+  },
+  {
+    "instruction": "What is the chemical symbol for Mercury?",
+    "input": "",
+    "output": "The chemical symbol for Mercury is Hg, derived from the Greek word 'Hydrargyrum' (liquid silver)."
+  },
+  {
+    "instruction": "Identify the largest internal organ in the human body.",
+    "input": "",
+    "output": "The liver is the largest internal organ in the human body."
+  },
+  {
+    "instruction": "What is the capital of Malaysia?",
+    "input": "",
+    "output": "The national capital of Malaysia is Kuala Lumpur."
+  },
+  {
+    "instruction": "Who painted 'The Starry Night'?",
+    "input": "",
+    "output": "Vincent van Gogh painted 'The Starry Night' in 1889."
+  },
+  {
+    "instruction": "Identify the continent where the South Pole is located.",
+    "input": "",
+    "output": "The South Pole is located on the continent of Antarctica."
+  },
+  {
+    "instruction": "What is the primary gas found in the Earth's atmosphere?",
+    "input": "",
+    "output": "Nitrogen makes up approximately 78% of the Earth's atmosphere."
+  },
+  {
+    "instruction": "Who was the primary author of the United States Declaration of Independence?",
+    "input": "",
+    "output": "Thomas Jefferson was the primary author of the Declaration of Independence."
+  },
+  {
+    "instruction": "What is the capital of Egypt?",
+    "input": "",
+    "output": "The capital of Egypt is Cairo."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Potassium.",
+    "input": "",
+    "output": "The chemical symbol for Potassium is K, from the Latin word 'Kalium'."
+  },
+  {
+    "instruction": "Name the four chambers of the human heart.",
+    "input": "",
+    "output": "The four chambers are the right atrium, the right ventricle, the left atrium, and the left ventricle."
+  },
+  {
+    "instruction": "What is the longest bone in the human body?",
+    "input": "",
+    "output": "The femur, or thigh bone, is the longest and strongest bone in the human body."
+  },
+  {
+    "instruction": "Identify the author of 'The Great Gatsby'.",
+    "input": "",
+    "output": "F. Scott Fitzgerald wrote 'The Great Gatsby', published in 1925."
+  },
+  {
+    "instruction": "What is the capital of Australia?",
+    "input": "",
+    "output": "The capital city of Australia is Canberra."
+  },
+  {
+    "instruction": "Who invented the telephone?",
+    "input": "",
+    "output": "Alexander Graham Bell is widely credited with inventing the telephone in 1876."
+  },
+  {
+    "instruction": "What is the chemical symbol for Gold?",
+    "input": "",
+    "output": "The chemical symbol for Gold is Au, from the Latin word 'Aurum'."
+  },
+  {
+    "instruction": "Identify the desert that covers a large part of Southern Africa.",
+    "input": "",
+    "output": "The Kalahari Desert covers much of Botswana, Namibia, and South Africa."
+  },
+  {
+    "instruction": "What is the capital of Norway?",
+    "input": "",
+    "output": "The capital of Norway is Oslo."
+  },
+  {
+    "instruction": "Who wrote the dystopian novel '1984'?",
+    "input": "",
+    "output": "George Orwell is the author of '1984'."
+  },
+  {
+    "instruction": "What is the most common element in the universe?",
+    "input": "",
+    "output": "Hydrogen is the most abundant element in the universe."
+  },
+  {
+    "instruction": "Identify the city where the Taj Mahal is located.",
+    "input": "",
+    "output": "The Taj Mahal is located in Agra, India."
+  },
+  {
+    "instruction": "What is the capital of Indonesia?",
+    "input": "",
+    "output": "The capital of Indonesia is Jakarta."
+  },
+  {
+    "instruction": "Who painted the 'Mona Lisa'?",
+    "input": "",
+    "output": "Leonardo da Vinci painted the 'Mona Lisa' in the early 16th century."
+  },
+  {
+    "instruction": "What is the chemical formula for common table salt?",
+    "input": "",
+    "output": "The chemical formula for table salt is NaCl (Sodium Chloride)."
+  },
+  {
+    "instruction": "Identify the year in which the first man landed on the moon.",
+    "input": "",
+    "output": "The first human moon landing occurred on July 20, 1969, during the Apollo 11 mission."
+  },
+  {
+    "instruction": "What is the capital of Portugal?",
+    "input": "",
+    "output": "The capital of Portugal is Lisbon."
+  },
+  {
+    "instruction": "Who is the author of the novel 'Don Quixote'?",
+    "input": "",
+    "output": "Miguel de Cervantes is the author of 'Don Quixote'."
+  },
+  {
+    "instruction": "What is the largest island in the world?",
+    "input": "",
+    "output": "Greenland is the largest island in the world (excluding continents)."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Phosphorus.",
+    "input": "",
+    "output": "The chemical symbol for Phosphorus is P."
+  },
+  {
+    "instruction": "What is the capital of Switzerland?",
+    "input": "",
+    "output": "Bern is the de facto capital (federal city) of Switzerland."
+  },
+  {
+    "instruction": "Who discovered Penicillin?",
+    "input": "",
+    "output": "Alexander Fleming discovered Penicillin in 1928."
+  },
+  {
+    "instruction": "What is the chemical symbol for Iron?",
+    "input": "",
+    "output": "The chemical symbol for Iron is Fe, from the Latin word 'Ferrum'."
+  },
+  {
+    "instruction": "Identify the author of 'The Catcher in the Rye'.",
+    "input": "",
+    "output": "J.D. Salinger wrote 'The Catcher in the Rye', published in 1951."
+  },
+  {
+    "instruction": "What is the capital of Ireland?",
+    "input": "",
+    "output": "The capital of Ireland is Dublin."
+  },
+  {
+    "instruction": "Who directed the 'Lord of the Rings' film trilogy?",
+    "input": "",
+    "output": "The trilogy was directed by Peter Jackson."
+  },
+  {
+    "instruction": "What is the chemical symbol for Helium?",
+    "input": "",
+    "output": "The chemical symbol for Helium is He."
+  },
+  {
+    "instruction": "Identify the sea that lies between Europe and Africa.",
+    "input": "",
+    "output": "The Mediterranean Sea lies between Europe and Africa."
+  },
+  {
+    "instruction": "What is the capital of Greece?",
+    "input": "",
+    "output": "The capital of Greece is Athens."
+  },
+  {
+    "instruction": "Who wrote 'Romeo and Juliet'?",
+    "input": "",
+    "output": "William Shakespeare wrote the tragedy 'Romeo and Juliet'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Nitrogen?",
+    "input": "",
+    "output": "The chemical symbol for Nitrogen is N."
+  },
+  {
+    "instruction": "Identify the smallest country in the world by land area.",
+    "input": "",
+    "output": "Vatican City is the smallest country in the world."
+  },
+  {
+    "instruction": "What is the capital of Turkey?",
+    "input": "",
+    "output": "The capital of Turkey is Ankara."
+  },
+  {
+    "instruction": "Who developed the theory of relativity?",
+    "input": "",
+    "output": "Albert Einstein developed the theory of relativity."
+  },
+  {
+    "instruction": "What is the chemical symbol for Calcium?",
+    "input": "",
+    "output": "The chemical symbol for Calcium is Ca."
+  },
+  {
+    "instruction": "Identify the author of 'A Tale of Two Cities'.",
+    "input": "",
+    "output": "Charles Dickens is the author of 'A Tale of Two Cities'."
+  },
+  {
+    "instruction": "What is the capital of New Zealand?",
+    "input": "",
+    "output": "The capital of New Zealand is Wellington."
+  },
+  {
+    "instruction": "Who was the first President of the United States?",
+    "input": "",
+    "output": "George Washington was the first U.S. President."
+  },
+  {
+    "instruction": "What is the chemical symbol for Lead?",
+    "input": "",
+    "output": "The chemical symbol for Lead is Pb, from the Latin word 'Plumbum'."
+  },
+  {
+    "instruction": "Identify the mountain range that separates Europe and Asia.",
+    "input": "",
+    "output": "The Ural Mountains are traditionally considered the boundary between Europe and Asia."
+  },
+  {
+    "instruction": "What is the capital of Japan?",
+    "input": "",
+    "output": "The capital of Japan is Tokyo."
+  },
+  {
+    "instruction": "Who wrote 'The Hobbit'?",
+    "input": "",
+    "output": "J.R.R. Tolkien is the author of 'The Hobbit'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Zinc?",
+    "input": "",
+    "output": "The chemical symbol for Zinc is Zn."
+  },
+  {
+    "instruction": "Identify the continent with the largest population.",
+    "input": "",
+    "output": "Asia is the most populous continent."
+  },
+  {
+    "instruction": "What is the capital of China?",
+    "input": "",
+    "output": "The capital of China is Beijing."
+  },
+  {
+    "instruction": "Who painted 'The Last Supper'?",
+    "input": "",
+    "output": "Leonardo da Vinci painted 'The Last Supper'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Silicon?",
+    "input": "",
+    "output": "The chemical symbol for Silicon is Si."
+  },
+  {
+    "instruction": "Identify the author of 'Pride and Prejudice'.",
+    "input": "",
+    "output": "Jane Austen is the author of 'Pride and Prejudice'."
+  },
+  {
+    "instruction": "What is the capital of Canada?",
+    "input": "",
+    "output": "The capital of Canada is Ottawa."
+  },
+  {
+    "instruction": "Who discovered the laws of planetary motion?",
+    "input": "",
+    "output": "Johannes Kepler discovered the laws of planetary motion."
+  },
+  {
+    "instruction": "What is the chemical symbol for Magnesium?",
+    "input": "",
+    "output": "The chemical symbol for Magnesium is Mg."
+  },
+  {
+    "instruction": "Identify the ocean that is the largest in the world.",
+    "input": "",
+    "output": "The Pacific Ocean is the largest ocean on Earth."
+  },
+  {
+    "instruction": "What is the capital of Argentina?",
+    "input": "",
+    "output": "The capital of Argentina is Buenos Aires."
+  },
+  {
+    "instruction": "Who wrote 'The Odyssey'?",
+    "input": "",
+    "output": "The ancient Greek poet Homer is credited with writing 'The Odyssey'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Aluminum?",
+    "input": "",
+    "output": "The chemical symbol for Aluminum is Al."
+  },
+  {
+    "instruction": "Identify the inventor of the light bulb.",
+    "input": "",
+    "output": "Thomas Edison is most famously associated with the invention of the practical incandescent light bulb."
+  },
+  {
+    "instruction": "What is the capital of France?",
+    "input": "",
+    "output": "The capital of France is Paris."
+  },
+  {
+    "instruction": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "input": "",
+    "output": "Amelia Earhart was the first woman to fly solo across the Atlantic."
+  },
+  {
+    "instruction": "What is the chemical symbol for Copper?",
+    "input": "",
+    "output": "The chemical symbol for Copper is Cu, from the Latin word 'Cuprum'."
+  },
+  {
+    "instruction": "Identify the author of 'The Old Man and the Sea'.",
+    "input": "",
+    "output": "Ernest Hemingway is the author of 'The Old Man and the Sea'."
+  },
+  {
+    "instruction": "What is the capital of Italy?",
+    "input": "",
+    "output": "The capital of Italy is Rome."
+  },
+  {
+    "instruction": "Who wrote 'Les Misérables'?",
+    "input": "",
+    "output": "Victor Hugo is the author of 'Les Misérables'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Carbon?",
+    "input": "",
+    "output": "The chemical symbol for Carbon is C."
+  },
+  {
+    "instruction": "Identify the gas that is essential for human respiration.",
+    "input": "",
+    "output": "Oxygen is essential for human respiration."
+  },
+  {
+    "instruction": "What is the capital of Russia?",
+    "input": "",
+    "output": "The capital of Russia is Moscow."
+  },
+  {
+    "instruction": "Who painted 'The Scream'?",
+    "input": "",
+    "output": "Edvard Munch painted 'The Scream'."
+  },
+  {
+    "instruction": "What is the chemical formula for water?",
+    "input": "",
+    "output": "The chemical formula for water is H2O."
+  },
+  {
+    "instruction": "Identify the author of 'Brave New World'.",
+    "input": "",
+    "output": "Aldous Huxley is the author of 'Brave New World'."
+  },
+  {
+    "instruction": "What is the capital of Spain?",
+    "input": "",
+    "output": "The capital of Spain is Madrid."
+  },
+  {
+    "instruction": "Who was the first female Prime Minister of the United Kingdom?",
+    "input": "",
+    "output": "Margaret Thatcher was the first female UK Prime Minister."
+  },
+  {
+    "instruction": "What is the chemical symbol for Neon?",
+    "input": "",
+    "output": "The chemical symbol for Neon is Ne."
+  },
+  {
+    "instruction": "Identify the city known as the 'City of Love'.",
+    "input": "",
+    "output": "Paris is often referred to as the 'City of Love'."
+  },
+  {
+    "instruction": "What is the capital of India?",
+    "input": "",
+    "output": "The capital of India is New Delhi."
+  },
+  {
+    "instruction": "Who wrote 'The Little Prince'?",
+    "input": "",
+    "output": "Antoine de Saint-Exupéry is the author of 'The Little Prince'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Iodine?",
+    "input": "",
+    "output": "The chemical symbol for Iodine is I."
+  },
+  {
+    "instruction": "Identify the scientist who proposed the laws of motion.",
+    "input": "",
+    "output": "Sir Isaac Newton proposed the three laws of motion."
+  },
+  {
+    "instruction": "What is the capital of Mexico?",
+    "input": "",
+    "output": "The capital of Mexico is Mexico City."
+  },
+  {
+    "instruction": "Who wrote 'Jane Eyre'?",
+    "input": "",
+    "output": "Charlotte Brontë is the author of 'Jane Eyre'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Platinum?",
+    "input": "",
+    "output": "The chemical symbol for Platinum is Pt."
+  },
+  {
+    "instruction": "Identify the largest planet in our solar system.",
+    "input": "",
+    "output": "Jupiter is the largest planet in our solar system."
+  },
+  {
+    "instruction": "What is the capital of South Africa?",
+    "input": "",
+    "output": "South Africa has three capitals: Pretoria (executive), Bloemfontein (judicial), and Cape Town (legislative)."
+  },
+  {
+    "instruction": "Who wrote 'The Chronicles of Narnia'?",
+    "input": "",
+    "output": "C.S. Lewis is the author of 'The Chronicles of Narnia'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Boron?",
+    "input": "",
+    "output": "The chemical symbol for Boron is B."
+  },
+  {
+    "instruction": "Identify the year in which World War II ended.",
+    "input": "",
+    "output": "World War II ended in 1945."
+  },
+  {
+    "instruction": "What is the capital of Belgium?",
+    "input": "",
+    "output": "The capital of Belgium is Brussels."
+  },
+  {
+    "instruction": "Who painted 'Girl with a Pearl Earring'?",
+    "input": "",
+    "output": "Johannes Vermeer painted 'Girl with a Pearl Earring'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Nickel?",
+    "input": "",
+    "output": "The chemical symbol for Nickel is Ni."
+  },
+  {
+    "instruction": "Identify the author of 'Moby-Dick'.",
+    "input": "",
+    "output": "Herman Melville is the author of 'Moby-Dick'."
+  },
+  {
+    "instruction": "What is the capital of the Philippines?",
+    "input": "",
+    "output": "The capital of the Philippines is Manila."
+  },
+  {
+    "instruction": "Who discovered gravity?",
+    "input": "",
+    "output": "Sir Isaac Newton is credited with the discovery of the law of universal gravitation."
+  },
+  {
+    "instruction": "What is the chemical symbol for Barium?",
+    "input": "",
+    "output": "The chemical symbol for Barium is Ba."
+  },
+  {
+    "instruction": "Identify the largest desert in the world.",
+    "input": "",
+    "output": "The Antarctic Desert is the largest desert in the world (the Sahara is the largest hot desert)."
+  },
+  {
+    "instruction": "What is the capital of Sweden?",
+    "input": "",
+    "output": "The capital of Sweden is Stockholm."
+  },
+  {
+    "instruction": "Who wrote 'Sense and Sensibility'?",
+    "input": "",
+    "output": "Jane Austen is the author of 'Sense and Sensibility'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Manganese?",
+    "input": "",
+    "output": "The chemical symbol for Manganese is Mn."
+  },
+  {
+    "instruction": "Identify the animal that is the largest mammal in the world.",
+    "input": "",
+    "output": "The Blue Whale is the largest mammal in the world."
+  },
+  {
+    "instruction": "What is the capital of Pakistan?",
+    "input": "",
+    "output": "The capital of Pakistan is Islamabad."
+  },
+  {
+    "instruction": "Who wrote 'The Giver'?",
+    "input": "",
+    "output": "Lois Lowry is the author of 'The Giver'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Fluorine?",
+    "input": "",
+    "output": "The chemical symbol for Fluorine is F."
+  },
+  {
+    "instruction": "Identify the country where the Amazon Rainforest is mostly located.",
+    "input": "",
+    "output": "The Amazon Rainforest is mostly located in Brazil."
+  },
+  {
+    "instruction": "What is the capital of Poland?",
+    "input": "",
+    "output": "The capital of Poland is Warsaw."
+  },
+  {
+    "instruction": "Who wrote 'Fahrenheit 451'?",
+    "input": "",
+    "output": "Ray Bradbury is the author of 'Fahrenheit 451'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Chlorine?",
+    "input": "",
+    "output": "The chemical symbol for Chlorine is Cl."
+  },
+  {
+    "instruction": "Identify the instrument used to measure atmospheric pressure.",
+    "input": "",
+    "output": "A barometer is used to measure atmospheric pressure."
+  },
+  {
+    "instruction": "What is the capital of Saudi Arabia?",
+    "input": "",
+    "output": "The capital of Saudi Arabia is Riyadh."
+  },
+  {
+    "instruction": "Who wrote 'The Alchemist'?",
+    "input": "",
+    "output": "Paulo Coelho is the author of 'The Alchemist'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Argon?",
+    "input": "",
+    "output": "The chemical symbol for Argon is Ar."
+  },
+  {
+    "instruction": "Identify the smallest planet in our solar system.",
+    "input": "",
+    "output": "Mercury is the smallest planet in our solar system."
+  },
+  {
+    "instruction": "What is the capital of Chile?",
+    "input": "",
+    "output": "The capital of Chile is Santiago."
+  },
+  {
+    "instruction": "Who wrote 'Wuthering Heights'?",
+    "output": "Emily Brontë is the author of 'Wuthering Heights'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Bromine?",
+    "input": "",
+    "output": "The chemical symbol for Bromine is Br."
+  },
+  {
+    "instruction": "Identify the layer of the Earth that is located directly below the crust.",
+    "input": "",
+    "output": "The mantle is the layer located below the crust."
+  },
+  {
+    "instruction": "What is the capital of Nigeria?",
+    "input": "",
+    "output": "The capital of Nigeria is Abuja."
+  },
+  {
+    "instruction": "Who wrote 'The Stranger'?",
+    "input": "",
+    "output": "Albert Camus is the author of 'The Stranger'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Chromium?",
+    "input": "",
+    "output": "The chemical symbol for Chromium is Cr."
+  },
+  {
+    "instruction": "Identify the gas that plants release during photosynthesis.",
+    "input": "",
+    "output": "Plants release oxygen as a byproduct of photosynthesis."
+  },
+  {
+    "instruction": "What is the capital of Iran?",
+    "input": "",
+    "output": "The capital of Iran is Tehran."
+  },
+  {
+    "instruction": "Who wrote 'Ulysses'?",
+    "input": "",
+    "output": "James Joyce is the author of 'Ulysses'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Cobalt?",
+    "input": "",
+    "output": "The chemical symbol for Cobalt is Co."
+  },
+  {
+    "instruction": "Identify the city where the Eiffel Tower is located.",
+    "input": "",
+    "output": "The Eiffel Tower is located in Paris, France."
+  },
+  {
+    "instruction": "What is the capital of Iraq?",
+    "input": "",
+    "output": "The capital of Iraq is Baghdad."
+  },
+  {
+    "instruction": "Who wrote 'Anna Karenina'?",
+    "input": "",
+    "output": "Leo Tolstoy is the author of 'Anna Karenina'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Tin?",
+    "input": "",
+    "output": "The chemical symbol for Tin is Sn, from the Latin word 'Stannum'."
+  },
+  {
+    "instruction": "Identify the part of the cell that contains the genetic material.",
+    "input": "",
+    "output": "The nucleus contains the cell's genetic material."
+  },
+  {
+    "instruction": "What is the capital of Colombia?",
+    "input": "",
+    "output": "The capital of Colombia is Bogotá."
+  },
+  {
+    "instruction": "Who wrote 'The Divine Comedy'?",
+    "input": "",
+    "output": "Dante Alighieri is the author of 'The Divine Comedy'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Beryllium?",
+    "input": "",
+    "output": "The chemical symbol for Beryllium is Be."
+  },
+  {
+    "instruction": "Identify the process by which a solid turns directly into a gas.",
+    "input": "",
+    "output": "The process is called sublimation."
+  },
+  {
+    "instruction": "What is the capital of Peru?",
+    "input": "",
+    "output": "The capital of Peru is Lima."
+  },
+  {
+    "instruction": "Who wrote 'The Picture of Dorian Gray'?",
+    "input": "",
+    "output": "Oscar Wilde is the author of 'The Picture of Dorian Gray'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Lithium?",
+    "input": "",
+    "output": "The chemical symbol for Lithium is Li."
+  },
+  {
+    "instruction": "Identify the most spoken language in the world by total number of speakers (as of 2021).",
+    "input": "",
+    "output": "English is the most spoken language in the world by total speakers."
+  },
+  {
+    "instruction": "What is the capital of Israel?",
+    "input": "",
+    "output": "The capital of Israel is Jerusalem (though this status is subject to international dispute)."
+  },
+  {
+    "instruction": "Who wrote 'Heart of Darkness'?",
+    "input": "",
+    "output": "Joseph Conrad is the author of 'Heart of Darkness'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Strontium?",
+    "input": "",
+    "output": "The chemical symbol for Strontium is Sr."
+  },
+  {
+    "instruction": "Identify the year in which the Berlin Wall fell.",
+    "input": "",
+    "output": "The Berlin Wall fell in 1989."
+  },
+  {
+    "instruction": "What is the capital of Cuba?",
+    "input": "",
+    "output": "The capital of Cuba is Havana."
+  },
+  {
+    "instruction": "Who wrote 'A Christmas Carol'?",
+    "input": "",
+    "output": "Charles Dickens is the author of 'A Christmas Carol'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Arsenic?",
+    "input": "",
+    "output": "The chemical symbol for Arsenic is As."
+  },
+  {
+    "instruction": "Identify the scientist who proposed the theory of evolution by natural selection.",
+    "input": "",
+    "output": "Charles Darwin proposed the theory of evolution."
+  },
+  {
+    "instruction": "What is the capital of Venezuela?",
+    "input": "",
+    "output": "The capital of Venezuela is Caracas."
+  }
+]

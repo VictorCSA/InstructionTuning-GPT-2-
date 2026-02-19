@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Identify the chemical symbol for Lead.",
+    "input": "",
+    "output": "The chemical symbol for Lead is Pb.",
+    "model small": "### Input:\nThe chemical symbol for Lead is Pb."
+  },
+  {
+    "instruction": "What is an antonym of 'external'?",
+    "input": "",
+    "output": "An antonym of 'external' is 'internal'.",
+    "model small": "An antonym of 'external' is 'internal'."
+  },
+  {
+    "instruction": "Who is the author of 'The Great Gatsby'?",
+    "input": "",
+    "output": "F. Scott Fitzgerald is the author of 'The Great Gatsby'.",
+    "model small": "The novel is by F. Scott Fitzgerald."
+  },
+  {
+    "instruction": "What is the capital of Ecuador?",
+    "input": "",
+    "output": "The capital of Ecuador is Quito.",
+    "model small": "The capital of Ecuador is Quito."
+  },
+  {
+    "instruction": "Who discovered Penicillin?",
+    "input": "",
+    "output": "Alexander Fleming.",
+    "model small": "The discovery of penicillin was by the French physician, Pasteur."
+  },
+  {
+    "instruction": "What is the capital of Tanzania?",
+    "input": "",
+    "output": "The capital of Tanzania is Dodoma.",
+    "model small": "The capital of Tanzania is Dar es Salaam."
+  },
+  {
+    "instruction": "Correct the following sentence for subject-verb agreement.",
+    "input": "They was going to the store.",
+    "output": "The correct sentence is: \"They were going to the store.\"",
+    "model small": "They were going to the store."
+  },
+  {
+    "instruction": "Identify the main architect of the Taj Mahal.",
+    "input": "",
+    "output": "Ustad Ahmad Lahauri is generally considered the chief architect of the Taj Mahal.",
+    "model small": "### Input:\nThe Taj Mahal is the main architect of the Taj Mahal."
+  },
+  {
+    "instruction": "Identify the author of 'The Grapes of Wrath'.",
+    "input": "",
+    "output": "John Steinbeck wrote 'The Grapes of Wrath', published in 1939.",
+    "model small": "### Input:\nThe author of 'The Grapes of Wrath' is Ernest Hemingway."
+  },
+  {
+    "instruction": "Who painted 'The Scream'?",
+    "input": "",
+    "output": "Edvard Munch painted 'The Scream'.",
+    "model small": "The Scream was painted by the French artist, Claude Monet."
+  },
+  {
+    "instruction": "Who painted 'The Night Watch'?",
+    "input": "",
+    "output": "The painting was created by Rembrandt van Rijn.",
+    "model small": "The Night Watch was painted by the Dutch artist Pieter Brueghel."
+  },
+  {
+    "instruction": "What is the chemical symbol for Platinum?",
+    "input": "",
+    "output": "The chemical symbol for Platinum is Pt.",
+    "model small": "The chemical symbol for Platinum is Pb."
+  },
+  {
+    "instruction": "What is the capital of Indonesia?",
+    "input": "",
+    "output": "The capital of Indonesia is Jakarta.",
+    "model small": "The capital of Indonesia is Jakarta."
+  },
+  {
+    "instruction": "Identify the element with the atomic number 79.",
+    "input": "",
+    "output": "The element with the atomic number 79 is Gold (Au).",
+    "model small": "### Input:\nIron\n\n\nThe element with the atomic number 79 is Iron."
+  },
+  {
+    "instruction": "Which ocean is the smallest in the world?",
+    "input": "",
+    "output": "The Arctic Ocean is the smallest and shallowest of the world's five major oceans.",
+    "model small": "The Great Barrier Reef."
+  },
+  {
+    "instruction": "Who wrote 'The Old Man and the Sea'?",
+    "input": "",
+    "output": "Ernest Hemingway wrote 'The Old Man and the Sea'.",
+    "model small": "The novel was written by Ernest Hemingway."
+  },
+  {
+    "instruction": "What is the capital of Greece?",
+    "input": "",
+    "output": "The capital of Greece is Athens.",
+    "model small": "The capital of Greece is Athens."
+  },
+  {
+    "instruction": "Suggest a more formal synonym for \"happy.\"",
+    "input": "",
+    "output": "A more formal synonym for \"happy\" is \"content.\"",
+    "model small": "### Input:\nThe word \"happy\" is a synonym for \"happy.\"\n\n\nThe word \"happy\" is a synonym for \"happy.\""
+  },
+  {
+    "instruction": "Identify the chemical symbol for Carbon.",
+    "input": "",
+    "output": "The chemical symbol for Carbon is C.",
+    "model small": "### Input:\nThe chemical symbol for Carbon is Carbon."
+  },
+  {
+    "instruction": "What is the capital of Turkey?",
+    "input": "",
+    "output": "The capital city of Turkey is Ankara.",
+    "model small": "The capital of Turkey is Ankara."
+  },
+  {
+    "instruction": "Name the three branches of the United States government.",
+    "input": "",
+    "output": "The three branches are the Legislative, Executive, and Judicial branches.",
+    "model small": "### Input:\nThe United States government is the executive branch of the United States government."
+  },
+  {
+    "instruction": "Who was the Greek goddess of wisdom?",
+    "input": "",
+    "output": "Athena was the Greek goddess of wisdom.",
+    "model small": "The Greek goddess of wisdom was Athena."
+  },
+  {
+    "instruction": "Identify the author of 'Fahrenheit 451'.",
+    "input": "",
+    "output": "The author is Ray Bradbury.",
+    "model small": "### Input:\nAlbert Camus\n\n\nAlbert Camus is the author of 'Fahrenheit 451'."
+  },
+  {
+    "instruction": "Provide an example of a compound sentence.",
+    "input": "",
+    "output": "I played the piano, and she sang along.",
+    "model small": "### Input:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:\nThe sentence is:"
+  },
+  {
+    "instruction": "What is the chemical symbol for Boron?",
+    "input": "",
+    "output": "The chemical symbol for Boron is B.",
+    "model small": "The chemical symbol for Boron is Ba."
+  },
+  {
+    "instruction": "Rewrite the sentence using a simile.",
+    "input": "The car is very fast.",
+    "output": "The car is as fast as lightning.",
+    "model small": "The car is very fast."
+  },
+  {
+    "instruction": "Who discovered Penicillin?",
+    "input": "",
+    "output": "Penicillin was discovered by Alexander Fleming in 1928.",
+    "model small": "The discovery of penicillin was by the French physician, Pasteur."
+  },
+  {
+    "instruction": "Who was the first President of the United States?",
+    "input": "",
+    "output": "George Washington was the first President of the United States.",
+    "model small": "George Washington was the first President of the United States."
+  },
+  {
+    "instruction": "Identify the chemical symbol for Platinum.",
+    "input": "",
+    "output": "The chemical symbol for Platinum is Pt.",
+    "model small": "### Input:\nThe chemical symbol for Platinum is Pb."
+  },
+  {
+    "instruction": "Identify the continent with the largest population.",
+    "input": "",
+    "output": "Asia is the most populous continent.",
+    "model small": "### Input:\nAfrica\n\n\nThe continent with the largest population is Africa."
+  },
+  {
+    "instruction": "Edit the following sentence for grammar.",
+    "input": "He go to the park every day.",
+    "output": "The correct sentence is: \"He goes to the park every day.\"",
+    "model small": "He goes to the park every day."
+  },
+  {
+    "instruction": "What is the chemical symbol for Barium?",
+    "input": "",
+    "output": "The chemical symbol for Barium is Ba.",
+    "model small": "The chemical symbol for Barium is Ba."
+  },
+  {
+    "instruction": "Identify the gas that is most commonly used in neon signs.",
+    "input": "",
+    "output": "The gas most commonly used in neon signs is Neon.",
+    "model small": "### Input:\nNitrogen is the most commonly used gas in neon signs."
+  },
+  {
+    "instruction": "Who painted 'The Scream'?",
+    "input": "",
+    "output": "The painting 'The Scream' was created by Edvard Munch.",
+    "model small": "The Scream was painted by the French artist, Claude Monet."
+  },
+  {
+    "instruction": "Identify the language mostly spoken in Austria.",
+    "input": "",
+    "output": "The primary language spoken in Austria is German.",
+    "model small": "### Input:\nAustria\n\n\nThe language spoken in Austria is German."
+  },
+  {
+    "instruction": "Which explorer is credited with the first circumnavigation of the globe?",
+    "input": "",
+    "output": "Ferdinand Magellan's expedition completed the first circumnavigation, though he died before the journey ended.",
+    "model small": "The first circumnavigation of the globe was by the Dutch explorer, Christopher Columbus."
+  },
+  {
+    "instruction": "What is the chemical symbol for Cesium?",
+    "input": "",
+    "output": "The chemical symbol for Cesium is Cs.",
+    "model small": "The chemical symbol for Cesium is Cu."
+  },
+  {
+    "instruction": "Who discovered gravity?",
+    "input": "",
+    "output": "Sir Isaac Newton is credited with the discovery of the law of universal gravitation.",
+    "model small": "Albert Einstein discovered gravity."
+  },
+  {
+    "instruction": "Who wrote 'The Little Prince'?",
+    "input": "",
+    "output": "Antoine de Saint-Exupéry is the author of 'The Little Prince'.",
+    "model small": "The novel was written by Prince Charles."
+  },
+  {
+    "instruction": "Evaluate the following phrase by transforming it into the correct spelling given.",
+    "input": "recieve --> receive",
+    "output": "The spelling of the given phrase 'recieve' is incorrect, the correct spelling is 'receive.'",
+    "model small": "The sentence 'recieve' is correct."
+  },
+  {
+    "instruction": "Who wrote 'The Little Prince'?",
+    "input": "",
+    "output": "Antoine de Saint-Exupéry is the author of 'The Little Prince'.",
+    "model small": "The novel was written by Prince Charles."
+  },
+  {
+    "instruction": "Identify the author of 'The Little Prince'.",
+    "input": "",
+    "output": "Antoine de Saint-Exupéry is the author of 'The Little Prince'.",
+    "model small": "### Input:\nThe author of 'The Little Prince' is George Eliot."
+  },
+  {
+    "instruction": "Identify the city where the Eiffel Tower is located.",
+    "input": "",
+    "output": "The Eiffel Tower is located in Paris, France.",
+    "model small": "### Input:\nParis."
+  },
+  {
+    "instruction": "Who wrote 'The Chronicles of Narnia'?",
+    "input": "",
+    "output": "C.S. Lewis is the author of 'The Chronicles of Narnia'.",
+    "model small": "The novel was written by J.R.R. Tolkien."
+  },
+  {
+    "instruction": "What is the capital of Iran?",
+    "input": "",
+    "output": "The capital of Iran is Tehran.",
+    "model small": "The capital of Iran is Tehran."
+  },
+  {
+    "instruction": "Generate a random alphanumeric code of 8 characters.",
+    "input": "",
+    "output": "Here is a randomly generated 8-character alphanumeric code: A3F8J7K2.",
+    "model small": "### Input:\n1\n\n\nThe alphanumeric code for 1 is '1'."
+  },
+  {
+    "instruction": "What is the chemical symbol for Sodium?",
+    "input": "",
+    "output": "The chemical symbol for Sodium is Na, from the Latin word 'Natrium'.",
+    "model small": "The chemical symbol for Sodium is Na."
+  },
+  {
+    "instruction": "Classify the following fruit according to its type.",
+    "input": "Orange",
+    "output": "The fruit 'Orange' is typically classified as a citrus fruit.",
+    "model small": "The fruit of the Orange tree is the Orange Fruit."
+  },
+  {
+    "instruction": "Generate a sentence using the word 'resilient'.",
+    "input": "",
+    "output": "She is resilient and always bounces back from challenges.",
+    "model small": "### Input:\nResilient is a word that describes a state of being that is resistant to damage."
+  },
+  {
+    "instruction": "Who is the protagonist of the 'Metamorphosis' by Franz Kafka?",
+    "input": "",
+    "output": "The protagonist is Gregor Samsa.",
+    "model small": "The protagonist of the 'Metamorphosis' by Franz Kafka is the author of 'The Trial'."
+  }
+]
