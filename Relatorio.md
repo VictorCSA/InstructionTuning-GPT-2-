@@ -226,7 +226,7 @@ A comparação entre as variantes Full (2.000 instruções) e Small (500 instru�
 * **GPT-2 Full (Total Médio):** 12.06
 * **GPT-2 Small (Total Médio):** 8.46
 
-O ganho médio de performance do modelo Full em relação à base foi de 7.67 pontos, atingindo picos de melhoria de até 15 pontos em instruções complexas onde a base falhava completamente.
+O ganho médio de performance do modelo Full em relação à base foi de 3.6 pontos, atingindo picos de melhoria de até 15 pontos em instruções complexas onde a base falhava completamente.
 
 #### Resumo Estatístico Percentual
 
@@ -239,4 +239,5 @@ A tabela abaixo normaliza os resultados para uma escala percentual, permitindo v
 | **GPT-2 Fine-tuned (Full)** | **80.40%** | 100.0% | 6.67% |
 
 ---
+
 
