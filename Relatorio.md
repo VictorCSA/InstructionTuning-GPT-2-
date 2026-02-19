@@ -128,10 +128,12 @@ Os modelos foram avaliados com base na perda de validação (*Validation Loss*),
 | **GPT-2_Small** | 0.596 |
 
 **1. Modelo GPT-2 Full (2.000 instruções)**
-![Curva de Loss - Full Dataset](imagens\loss-plot_full.png)
+
+![Curva de Loss - Full Dataset](https://github.com/VictorCSA/InstructionTuning-GPT-2-/blob/main/imagens/loss-plot_full.png?raw=true)
 
 **2. Modelo GPT-2 Small (500 instruções)**
-![Curva de Loss - Small Dataset](imagens\loss-plot_small.png)
+
+![Curva de Loss - Small Dataset](https://github.com/VictorCSA/InstructionTuning-GPT-2-/blob/main/imagens/loss-plot_small.png?raw=true)
 
 ## Testes e Avaliação Qualitativa
 
@@ -215,7 +217,7 @@ Na comparação direta (*head-to-head*), o modelo ajustado com o dataset complet
 * **Vitórias do Modelo B (Base):** 17.50%
 * **Empates:** 7.50%
 
-![Distribuição de Scores Totais](imagens\score_percentage.png)
+![Distribuição de Scores Totais](https://github.com/VictorCSA/InstructionTuning-GPT-2-/blob/main/imagens/score_percentage.png?raw=true)
 
 #### Impacto do Volume de Dados
 
@@ -237,3 +239,4 @@ A tabela abaixo normaliza os resultados para uma escala percentual, permitindo v
 | **GPT-2 Fine-tuned (Full)** | **80.40%** | 100.0% | 6.67% |
 
 ---
+
