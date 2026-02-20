@@ -237,7 +237,23 @@ A tabela abaixo normaliza os resultados para uma escala percentual, permitindo v
 | **GPT-2 Base** | 29.25% | 100.0% | 0.00% |
 | **GPT-2 Fine-tuned (Small)** | 56.40% | 100.0% | 0.00% |
 | **GPT-2 Fine-tuned (Full)** | **80.40%** | 100.0% | 6.67% |
+---
+
+## Conclusão
+
+Os experimentos realizados demonstram que o *fine-tuning* de instruções é uma etapa transformadora para modelos de arquitetura menor, como o **GPT-2**. A transição de um score médio de **29.25% (Base)** para **80.40% (Full)** evidencia que, embora o modelo pré-treinado possua capacidades linguísticas latentes, ele carece da estrutura necessária para responder a comandos diretos sem o ajuste fino.
+
+A comparação entre as variantes *Small* e *Full* ratifica a importância da escala do dataset: aumentar o volume de dados e diversificar o conteúdo resultou em um salto de **24 pontos percentuais** na performance geral. Em suma, o projeto atingiu o objetivo de converter um modelo de linguagem genérico em um assistente capaz de seguir instruções com clareza e acurácia factual satisfatória.
 
 ---
+
+## Discussão: Riscos de Viés do Juiz (LLM-as-a-Judge)
+
+Embora a utilização do **Llama 7B** como juiz automatizado ofereça escala e agilidade à avaliação, é fundamental reconhecer os riscos de viés inerentes a essa metodologia:
+
+1. **Viés de Egocentrismo (Self-preference Bias):** LLMs tendem a pontuar melhor respostas que se assemelham ao seu próprio estilo de escrita ou padrões de treinamento. Como o juiz (Llama) e os modelos avaliados podem compartilhar semelhanças nas bases de dados de pré-treino, as notas podem ser infladas.
+2. **Viés de Verborragia (Verbosity Bias):** Modelos avaliadores frequentemente associam respostas mais longas a respostas melhores. No caso do GPT-2 Base, que apresentou repetições infinitas, o juiz conseguiu filtrar o erro, mas em modelos que geram textos prolixos porém vazios, o juiz pode ser induzido ao erro.
+3. **Viés de Ordem (Position Bias):** A ordem em que as respostas são apresentadas ao juiz (Model A primeiro vs. Model B primeiro) pode influenciar a decisão. Para mitigar isso, recomenda-se, em estudos futuros, inverter as posições e realizar uma média das duas avaliações.
+4. **Limitação de Raciocínio Lógico:** Por ser um modelo de 7B parâmetros, o juiz pode ter dificuldades em avaliar nuances de instruções lógicas complexas ou cálculos matemáticos, podendo julgar uma resposta como "clara e útil" mesmo que o resultado final esteja incorreto.
 
 
